@@ -1,0 +1,3554 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <title>单机游戏_单机游戏下载_单机游戏大全中文版下载_3DM游戏网</title>
+    <meta name="keywords" content="3DMGAME,单机游戏,汉化,中文版,排行榜,游戏下载">
+    <meta name="description" content="3DM游戏网为玩家提供最新的游戏新闻、攻略、单机游戏资源、汉化资源、游戏补丁、游戏论坛等，经过多年努力已成为游戏玩家首要选择的游戏资讯、游戏资源网站。">
+    <meta name="domain_verify" content="pmrgi33nmfuw4ir2eizwi3lhmfwwkltdn5wselbcm52wszbchirdszrugntgcy3ggfrgizbugbsdkojqgq3weytegmydgnbvgbrtqnrcfqrhi2lnmvjwc5tfei5dcnjugiydsnrrgazdinrqpu">
+    <meta name="360-kch-verification" content="a2d50732042a4330be2b3863719ea947" />
+    <link rel="stylesheet" type="text/css" href="https://www.3dmgame.com/index/css/base.css?v=202108191007"/>
+    <link rel="stylesheet" type="text/css" href="https://www.3dmgame.com/index/css/index.css?v=2021081902"/>
+    <script type="text/javascript" src="https://www.3dmgame.com/page/js/jq1.9.js"></script>
+    <script src="https://dup.baidustatic.com/js/ds.js"></script>
+    <script data-ad-client="ca-pub-5388852039881814" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body>
+    <div class="header_wrap">
+        <div class="header_top">
+            <div class="center">
+                <div class="ul_link">
+                    <a href="https://www.3dmgame.com" target="_blank"><i class="ico1"></i>主站</a>
+                    <a href="https://shop.3dmgame.com" target="_blank"><i class="ico2"></i>商城</a>
+                    <a href="https://bbs.3dmgame.com" target="_blank"><i class="ico3"></i>论坛</a>
+                    <a href="https://www.3dmgame.com/app.html" target="_blank"><i class="ico4"></i>手机APP</a>
+                    <a href="https://yx.3dmgame.com" target="_blank"><i class="ico5"></i>自运营</a>
+                </div>
+                <div class="head_top_rt" id="my_user_top">
+                    <img src="https://www.3dmgame.com/index/images/ioc-ren.png">
+                    <a href="javascript:void(0);" class="login" onclick="openlogin()">登录</a>
+                    <a href="javascript:void(0);" class="enroll" onclick="openregister()">注册</a>
+                </div>
+            </div>
+        </div>
+        <div class="header">
+            <div class="center">
+                <a href="https://www.3dmgame.com"><img src="https://www.3dmgame.com/index/images/logo.png" class="login"></a>
+                <div class="search">
+                    <form name="search_form" action="https://so.3dmgame.com/" method="get" target="_blank" autocomplete="off" id="bdcs">
+                        <input type="text" onblur="if (this.value=='') this.value='笑傲江湖'" value="笑傲江湖" this.style.color="#000000" onfocus="if (this.value!='') this.value='';search_form.type.value=5;" name="keyword" />
+                        <input type="hidden" name="subsearch" value="1" />
+                        <input type="hidden" name="type" value="4" />
+                        <button type="submit" class="but"><i></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="nav">
+            <div class="center">
+                <ul>
+                    <li><a href="https://www.3dmgame.com/news/">新闻<span class="hide"></span></a></li>
+                    <li><a href="https://www.3dmgame.com/original.html">专栏<span class="hide"></span></a></li>
+                    <li><a href="https://www.3dmgame.com/bagua/">娱乐<span class="hide"></span></a></li>
+                    <li><a href="https://3c.3dmgame.com/">硬件<span class="hide"></span></a></li>
+                    <li><a href="https://shop.3dmgame.com">商城<span class="hide"></span></a></li>
+                    <li><a href="https://ol.3dmgame.com/esports/">电竞<span class="hide"></span></a></li>
+                    <li><a href="https://dl.3dmgame.com/">下载<span class="hide"></span></a></li>
+                    <li><a href="https://bbs.3dmgame.com/">论坛<span class="hide"></span></a></li>
+                    <li><a href="https://mod.3dmgame.com/" target="_blank">MOD站<span class="hide"></span></a></li>
+                    <li><a href="https://www.3dmgame.com/2ciyuangames/##" target="_blank" style="margin-left: 15px;color: #f0412a;">施工现场</a></li>
+                </ul>
+                <ol>
+                    <li><a href="https://www.3dmgame.com" class="as">首页</a></li>
+                    <li><a href="https://www.3dmgame.com/games/">单机</a></li>
+                    <li><a href="https://shouyou.3dmgame.com/">手游</a></li>
+                    <li><a href="https://ol.3dmgame.com/">网游</a></li>
+                    <li><a href="https://soft.3dmgame.com/">软件</a></li>
+                    <li><a href="https://yx.3dmgame.com/">自运营</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <div class="content">
+	<div id="index_top_tonglan" class="tonglona_1">
+<script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5866857',
+            container: s,
+            size: '1200,90',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+    <i style="width:26px;height:15px;position:absolute;left:0;bottom:0;background:url(https://www.3dmgame.com/page/images/icon_ad.png);"></i>
+</div>
+    <div class="Min_1">
+    <div class="lis lis1">
+        <p>热门单机</p>
+                    <a href="http://tg.jusanguo.com/u35_5073_760_g14" target="_blank"  rel="nofollow"   class="red"  >高爆版屠龙<i></i></a>
+                    <a href="https://www.3dmgame.com/games/cyberpunk2077/" target="_blank"   >赛博朋克2077<i></i></a>
+                    <a href="https://www.3dmgame.com/games/forzahorizon4/" target="_blank"   >极限竞速：地平线4<i></i></a>
+                    <a href="https://store.steampowered.com/app/1212850/Monobot/" target="_blank"  rel="nofollow"   class="red"  >默途：3DM发行<i></i></a>
+                    <a href="https://www.3dmgame.com/games/residentevil8/" target="_blank"   >生化危机8<i></i></a>
+                    <a href="https://www.3dmgame.com/games/naraka/" target="_blank"   >永劫无间<i></i></a>
+                    <a href="https://www.3dmgame.com/games/deathstranding/" target="_blank"   >死亡搁浅<i></i></a>
+                    <a href="https://www.3dmgame.com/games/nioh2/" target="_blank"   >仁王2<i></i></a>
+                    <a href="https://www.3dmgame.com/games/borderlands3/" target="_blank"   >无主之地3<i></i></a>
+                    <a href="https://www.3dmgame.com/games/mountblade2b/" target="_blank"   >骑马与砍杀2<i></i></a>
+                    <a href="http://web.3dmgame.com/yy/sgqyz/ad" target="_blank"   class="red"  >三国：战略版<i></i></a>
+            </div>
+    <div class="lis lis2">
+        <p>手游大作</p>
+                        <a href="https://shouyou.3dmgame.com/android/230122.html" target="_blank"   class="red"  >枪火地牢<i></i></a>
+                        <a href="https://yx.3dmgame.com/app/hczs/" target="_blank"   >黑潮之上<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/92494/" target="_blank"   >梦幻新诛仙<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/78974/" target="_blank"   class="red"  >无尽的拉格朗日<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/55657/" target="_blank"   >EVE手游<i></i></a>
+                        <a href="https://yx.3dmgame.com/app/zzhxhyzz/" target="_blank"   class="red"  >最终幻想<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/146511/" target="_blank"   >小浣熊百将传<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/5/" target="_blank"   >王者荣耀<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/23735/" target="_blank"   >明日方舟<i></i></a>
+                        <a href="https://www.3dmgame.com/games/yuanshen/" target="_blank"   >原神<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/2087/" target="_blank"   >碧蓝航线<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/151567/" target="_blank"   class="red"  >重返帝国<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/79519/" target="_blank"   >解神者：X2<i></i></a>
+                        <a href="https://shouyou.3dmgame.com/zt/31966/" target="_blank"   >想不想修真<i></i></a>
+                        <a href="https://www.pchome.net/" target="_blank"  rel="nofollow"   >PChome<i></i></a>
+                </div>
+    <div class="lis lis3">
+        <p>大型网游</p>
+                        <a href="https://ol.3dmgame.com/cjdmj/" target="_blank"   >超激斗梦境<i></i></a>
+                        <a href="https://www.3dmgame.com/original/3743070.html" target="_blank"   >战意<i></i></a>
+                        <a href="https://ol.3dmgame.com/jw3yq/" target="_blank"   >剑网3怀旧服<i></i></a>
+                        <a href="https://ol.3dmgame.com/lol/" target="_blank"   >英雄联盟<i></i></a>
+                        <a href="https://ol.3dmgame.com/dnf/" target="_blank"   >地下城与勇士<i></i></a>
+                        <a href="https://ol.3dmgame.com/fortnite/" target="_blank"   >堡垒之夜<i></i></a>
+                        <a href="https://ol.3dmgame.com/cf/" target="_blank"   class="red"  >穿越火线<i></i></a>
+                        <a href="https://ol.3dmgame.com/test/dahuaxiyoujingdianban2/" target="_blank"   >大话西游2<i></i></a>
+                        <a href="https://ol.3dmgame.com/zxsj/" target="_blank"   >诛仙世界<i></i></a>
+                        <a href="https://ol.3dmgame.com/qmzzjjc/" target="_blank"   >全面战争：竞技场<i></i></a>
+                        <a href="https://ol.3dmgame.com/wow/" target="_blank"   >魔兽世界<i></i></a>
+                        <a href="http://web.3dmgame.com/yy/dldl3d/ad" target="_blank"   >斗罗大陆3D<i></i></a>
+                        <a href="https://ol.3dmgame.com/jdqs/" target="_blank"   class="red"  >绝地求生<i></i></a>
+                </div>
+    <div class="lis lis4">
+        <p>3DM自营</p>
+                        <a href="https://yx.3dmgame.com/h5/aybt/ad" target="_blank"   class="red"  >暗夜兵团<i></i></a>
+                        <a href="https://yx.3dmgame.com/h5/nslm/ad" target="_blank"   >女神联盟：契约<i></i></a>
+                        <a href="https://yx.3dmgame.com/yx/sgs10" target="_blank"   >三国杀10年<i></i></a>
+                        <a href="http://web.3dmgame.com/h5/game?gameid=10199" target="_blank"   >名酱三国<i></i></a>
+                        <a href="https://yx.3dmgame.com/yy/yscq/ad" target="_blank"   class="red"  >复古传奇1.76<i></i></a>
+                        <a href="https://yx.3dmgame.com/yy/bzsc/ad" target="_blank"   >百战沙城<i></i></a>
+                        <a href="http://web.3dmgame.com/h5/ogyx/ad" target="_blank"   class="red"  >欧冠--意大利 <i></i></a>
+                        <a href="http://web.3dmgame.com/yy/cjzg/ad" target="_blank"   >裁决战歌<i></i></a>
+                        <a href="http://web.3dmgame.com/yy/czl/ad" target="_blank"   >苍之录<i></i></a>
+                        <a href="http://web.3dmgame.com/h5/game?gameid=10107" target="_blank"   class="red"  >荣耀冠军<i></i></a>
+                        <a href="http://web.3dmgame.com/h5/game?gameid=10154" target="_blank"   >字母哥FMVP<i></i></a>
+                        <a href="https://yx.3dmgame.com/h5/mzlr/ad" target="_blank"   >签约主播<i></i></a>
+                </div>
+    <div class="lis lis5">
+        <p>即将上市</p>
+                        <a href="https://www.3dmgame.com/games/pal7/" target="_blank"   >仙剑奇侠传7<i></i></a>
+                        <a href="https://www.3dmgame.com/games/forzahorizon5/" target="_blank"   >极限竞速：地平线5<i></i></a>
+                        <a href="https://www.3dmgame.com/games/ff16/" target="_blank"   >最终幻想16<i></i></a>
+                        <a href="https://www.3dmgame.com/games/eldenring/" target="_blank"   >艾尔登法环<i></i></a>
+                        <a href="https://www.3dmgame.com/games/projectboundary/" target="_blank"   >边境<i></i></a>
+                        <a href="https://www.3dmgame.com/games/diablo4/" target="_blank"   >暗黑破坏神4<i></i></a>
+                        <a href="https://www.3dmgame.com/games/farcry6/" target="_blank"   >孤岛惊魂6<i></i></a>
+                        <a href="https://www.3dmgame.com/games/battlefield2042/" target="_blank"   >战地2042<i></i></a>
+                        <a href="https://www.3dmgame.com/games/cod18/" target="_blank"   >使命召唤：先锋<i></i></a>
+                        <a href="https://www.3dmgame.com/games/hollowknightss/" target="_blank"   >丝绸之歌<i></i></a>
+                        <a href="https://www.3dmgame.com/games/ridersrebublic/" target="_blank"   >极限国度<i></i></a>
+                        <a href="https://www.3dmgame.com/games/dyinglight2/" target="_blank"   >消逝的光芒2<i></i></a>
+                </div>
+    <div class="lis lis6">
+        <p>游戏活动 </p>
+                        <a href="http://web.3dmgame.com/h5/game?gameid=10101" target="_blank"   class="red"  >文字修真<i></i></a>
+                        <a href="https://bbs.3dmgame.com/thread-6202869-1-1.html" target="_blank"   >荣耀新三国<i></i></a>
+                        <a href="https://bbs.3dmgame.com/thread-6207770-1-1.html" target="_blank"   >NBA 2K22<i></i></a>
+                        <a href="https://www.3dmgame.hk/game/36.html" target="_blank"  rel="nofollow"   >只狼<i></i></a>
+                        <a href="https://ol.3dmgame.com/hao/10400.html" target="_blank"   >领地人生<i></i></a>
+                        <a href="https://ol.3dmgame.com/hao/10402.html" target="_blank"   >洛奇英雄传<i></i></a>
+                        <a href="https://www.3dmgame.hk/game/855.html" target="_blank"  rel="nofollow"   >绯紅結系<i></i></a>
+                        <a href="https://www.3dmgame.hk/game/832.html" target="_blank"  rel="nofollow"   class="red"  >FIFA21<i></i></a>
+                        <a href="https://www.3dmgame.hk/game/866.html" target="_blank"  rel="nofollow"   >HUMANKIND<i></i></a>
+                        <a href="https://item.taobao.com/item.htm?id=609946241940" target="_blank"  rel="nofollow"   >三国志14<i></i></a>
+                        <a href="https://www.3dmgame.hk/game/7.html" target="_blank"  rel="nofollow"   >鬼泣5<i></i></a>
+                        <a href="https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.6c3b1deb3llVNo&ft=t&id=628235354071" target="_blank"  rel="nofollow"   >足球经理2021<i></i></a>
+                        <a href="http://web.3dmgame.com/yy/xajh/ad" target="_blank"   class="red"  >沧海一声笑<i></i></a>
+                </div>
+</div>
+        <div class="Min_2">
+            <div class="Min2_top">
+		<a href="https://www.3dmgame.hk/game_all/promo" target="_blank"  rel="nofollow"  >正版促销</a>
+		<a href="https://www.3dmgame.com/games/zq/" target="_blank"  >热门专区</a>
+		<a href="https://www.3dmgame.com/phb.html" target="_blank"  >游戏排行榜</a>
+		<a href="https://dl.3dmgame.com/patch/" target="_blank"  >补丁工具</a>
+		<a href="https://www.3dmgame.com/hanhua/" target="_blank"  >3DM汉化</a>
+		<a href="https://www.3dmgame.com/tag/" target="_blank"  >标签合集</a>
+		<a href="https://www.3dmgame.com/original/yzht/" target="_blank"  >一周话题</a>
+		<a href="https://yx.3dmgame.com/yy/yscq/ad" target="_blank"  >原始传奇</a>
+		<a href="https://shouyou.3dmgame.com/original_28_1/" target="_blank"  >手游周推</a>
+		<a href="https://ol.3dmgame.com/test/" target="_blank"  >网游开测</a>
+		<a href="https://yeyou.3dmgame.com/h5/" target="_blank"  >H5游戏</a>
+</div>
+            <div class="tonglona_2">
+<script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5866584',
+            container: s,
+            size: '1160,90',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+    <i style="width:26px;height:15px;position:absolute;left:0;bottom:0;background:url(https://www.3dmgame.com/page/images/icon_ad.png);"></i>
+</div>
+            <div class="Min2_L">
+            <div class="hdwrap">
+    <div class="ban" id="hdlist">
+        <div class="ban2" id="ban_pic1">
+            <div class="lis"></div>
+            <ul>
+                    <li>
+                        <img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959687_856724.jpg" alt="国风克苏鲁魂类ARPG 《明末：渊虚之羽》新视觉图" class="img_focus"/>
+                        <a href="https://www.3dmgame.com/news/202109/3823953.html"  target="_blank"   class="img_afocus"></a>
+                        <div class="bt">
+                            <a href="https://www.3dmgame.com/news/202109/3823953.html"  target="_blank"   >国风克苏鲁魂类ARPG 《明末：渊虚之羽》新视觉图</a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959625_234857.jpg" alt="《暗黑破坏神2：重制版》NS版画面展示 效果尚可" class="img_focus"/>
+                        <a href="https://www.3dmgame.com/news/202109/3823955.html"  target="_blank"   class="img_afocus"></a>
+                        <div class="bt">
+                            <a href="https://www.3dmgame.com/news/202109/3823955.html"  target="_blank"   >《暗黑破坏神2：重制版》NS版画面展示 效果尚可</a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959268_459721.jpg" alt="《赛博朋克2077》内部演示文稿公布 含众多未采用元素" class="img_focus"/>
+                        <a href="https://www.3dmgame.com/news/202109/3823976.html"  target="_blank"   class="img_afocus"></a>
+                        <div class="bt">
+                            <a href="https://www.3dmgame.com/news/202109/3823976.html"  target="_blank"   >《赛博朋克2077》内部演示文稿公布 含众多未采用元素</a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959318_176568.jpg" alt="《战神：诸神黄昏》新艺术概念图 大战即将展开" class="img_focus"/>
+                        <a href="https://www.3dmgame.com/news/202109/3823945.html"  target="_blank"   class="img_afocus"></a>
+                        <div class="bt">
+                            <a href="https://www.3dmgame.com/news/202109/3823945.html"  target="_blank"   >《战神：诸神黄昏》新艺术概念图 大战即将展开</a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="https://img.3dmgame.com/uploads/images/thumbnews/20210919/1632017261_756536.jpg" alt="众灵随行，轻松躺赢！九宠助战仙幻手游《幻世九歌》现已公测！" class="img_focus"/>
+                        <a href="https://shouyou.3dmgame.com/news/58037.html"  target="_blank"   class="img_afocus"></a>
+                        <div class="bt">
+                            <a href="https://shouyou.3dmgame.com/news/58037.html"  target="_blank"   >众灵随行，轻松躺赢！九宠助战仙幻手游《幻世九歌》现已公测！</a>
+                        </div>
+                    </li>
+            </ul>
+        </div>
+        <div class="min_pic">
+            <div class="num clearfix" id="ban_num1">
+                <ul>
+                        <li>
+                            <a href="javascript:;"><img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959687_856724.jpg" /></a>
+                        </li>
+                        <li>
+                            <a href="javascript:;"><img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959625_234857.jpg" /></a>
+                        </li>
+                        <li>
+                            <a href="javascript:;"><img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959268_459721.jpg" /></a>
+                        </li>
+                        <li>
+                            <a href="javascript:;"><img src="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631959318_176568.jpg" /></a>
+                        </li>
+                        <li>
+                            <a href="javascript:;"><img src="https://img.3dmgame.com/uploads/images/thumbnews/20210919/1632017261_756536.jpg" /></a>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="review">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico4"></i>游戏评测</span>
+            <a href="https://www.3dmgame.com/original_40_1/" target="_blank" class="mor">更多<i></i></a>
+        </div>
+    </div>
+        <div class="score_box_a">
+        <a href="https://www.3dmgame.com/score/3742568.html" target="_blank" class="Gm_info">
+            <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbpcfirst/20210918/1631970077_797191_1.jpg" alt="《海沙风云》评测：掌握哩度嘅人先至可以企系时代嘅丁丁噶！"></div>
+            <div class="bt">《海沙风云》评测：掌握哩度嘅人先至可以企系时代嘅丁丁噶！</div>
+        </a>
+        <div class="Gm_score">
+            <div class="processingbar">
+                <i>8.0</i>
+            </div>
+        </div>
+    </div>
+        <div class="score_list">
+                <div class="lis">
+            <a href="https://www.3dmgame.com/score/3742566.html" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbpcfirst/20210918/1631947128_929040_1.jpg" alt="《荒神2》评测：刺客还是战士？爽就完事了"></a>
+            <a href="https://www.3dmgame.com/score/3742566.html" target="_blank" class="txt">
+                <p>《荒神2》评测：刺客还是战士？爽就完事了</p>
+            </a>
+            <div class="score_box_b">
+                <div class="score_txt">
+                    <span>7.5</span>
+                    <i></i>
+                </div>
+                <div class="linbox">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+                <div class="lis">
+            <a href="https://www.3dmgame.com/score/3742565.html" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbpcfirst/20210916/1631779324_903642_1.jpg" alt="《骰子遗产》评测：物化你的人民"></a>
+            <a href="https://www.3dmgame.com/score/3742565.html" target="_blank" class="txt">
+                <p>《骰子遗产》评测：物化你的人民</p>
+            </a>
+            <div class="score_box_b">
+                <div class="score_txt">
+                    <span>7.1</span>
+                    <i></i>
+                </div>
+                <div class="linbox">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+                <div class="lis">
+            <a href="https://www.3dmgame.com/score/3742563.html" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbpcfirst/20210915/1631677336_454103_1.jpg" alt="《NBA 2K22》评测：75周年带来的一些惊喜"></a>
+            <a href="https://www.3dmgame.com/score/3742563.html" target="_blank" class="txt">
+                <p>《NBA 2K22》评测：75周年带来的一些惊喜</p>
+            </a>
+            <div class="score_box_b">
+                <div class="score_txt">
+                    <span>7.5</span>
+                    <i></i>
+                </div>
+                <div class="linbox">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+            </div>
+</div>
+
+            <div class="tpwrap">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico2"></i>争议投票</span>
+            <a href="https://www.3dmgame.com/original_41_1/" target="_blank" class="mor">更多<i></i></a>
+        </div>
+    </div>
+    <div class="Tptop">
+        <input type="hidden" id="voteid" value="127" />
+        <a href="https://www.3dmgame.com/vote/127.html" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbvotefirst/20210809/1628506497_117313.jpg" alt="你如何看待现在的EPIC GAME?"></a>
+        <a href="https://www.3dmgame.com/vote/127.html" target="_blank" class="bt">你如何看待现在的EPIC GAME?</a>
+        <div class="miaoshu">
+	8月4日，有一份EPIC与苹果对簿公堂时的法庭诉讼文件被曝光，这份文件中，记录了EPIC限时独占策略所支出的成本与带来的收益。
+
+
+	根据这份文件的数据来看，EPIC早期的平台独占策略，不仅没有给他们带来预期中的收益，反而让他们损失了更多——高达1.3亿美元的金额。
+
+
+	 
+</div>
+    </div>
+    <div class="Tplist">
+            <ul>
+                        <li>
+                <div class="Tp_L">
+                    <div class="lin">
+                        <div class="box"><span style="width:24%"></span></div>
+                        <div class="num">1029</div>
+                    </div>
+                    <div class="bt">支持EPIC，倒逼G胖数3，我辈义不容辞</div>
+                </div>
+                <div class="Tp_R" data-id="379">投票</div>
+            </li>
+                        <li>
+                <div class="Tp_L">
+                    <div class="lin">
+                        <div class="box"><span style="width:8%"></span></div>
+                        <div class="num">345</div>
+                    </div>
+                    <div class="bt">平台独占不可取，我不用EPIC</div>
+                </div>
+                <div class="Tp_R" data-id="380">投票</div>
+            </li>
+                        <li>
+                <div class="Tp_L">
+                    <div class="lin">
+                        <div class="box"><span style="width:69%"></span></div>
+                        <div class="num">3027</div>
+                    </div>
+                    <div class="bt">我只是个无情的领游戏机器</div>
+                </div>
+                <div class="Tp_R" data-id="381">投票</div>
+            </li>
+                    </ul>
+        </div>
+</div>
+
+            <div class="hard_wrap">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico3"></i>硬件设备</span>
+            <a href="https://3c.3dmgame.com/" target="_blank" class="mor">更多<i></i></a>
+        </div>
+    </div>
+    <div class="lia_a">
+            <a href="https://3c.3dmgame.com/show-57-14953-1.html" target="_blank" class="lis">
+            <div class="img"><img class="lazy" data-original="https://3c.3dmgame.com/uploadfile/2021/0918/thumb_198_110_20210918074024920.jpg" alt="告别掉线、延迟！UU加速器堪称主机游戏的最佳CP！"></div>
+            <div class="bt"><i></i>告别掉线、延迟！UU加速器堪称主机游戏的最佳CP！</div>
+        </a>
+            <a href="https://3c.3dmgame.com/show-30-14933-1.html" target="_blank" class="lis">
+            <div class="img"><img class="lazy" data-original="https://3c.3dmgame.com/uploadfile/2021/0917/thumb_198_110_20210917081254169.png" alt="《使命召唤18：先锋》延迟高、下载慢？网易UU来解决！"></div>
+            <div class="bt"><i></i>《使命召唤18：先锋》延迟高、下载慢？网易UU来解决！</div>
+        </a>
+        </div>
+    <div class="lis_b">
+            <a href="https://3c.3dmgame.com/show-57-14953-1.html" target="_blank" class="lis">
+            <i></i>
+            <p>告别掉线、延迟！UU加速器堪称主机游戏的最佳CP！</p>
+            <span>09-18</span>
+        </a>     
+            <a href="https://3c.3dmgame.com/show-18-14952-1.html" target="_blank" class="lis">
+            <i></i>
+            <p>“静+”技术居家办公-雷柏键盘清静体验</p>
+            <span>09-18</span>
+        </a>     
+            <a href="https://3c.3dmgame.com/show-34-14951-1.html" target="_blank" class="lis">
+            <i></i>
+            <p>北通宙斯入选CCTV国货优品直播节目 北通双喜临门中秋送好礼</p>
+            <span>09-18</span>
+        </a>     
+        </div>
+</div>
+            <div class="ycnr_warp">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico1"></i>原创内容</span>
+            <a href="https://www.3dmgame.com/original/" target="_blank" class="mor">更多<i></i></a>
+        </div>
+    </div>
+    <div class="list_a">
+        <ul>
+                    <li>
+                <a href="https://www.3dmgame.com/original/3743211.html" target="_blank">
+                    <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210903/1630662724_103552.jpg" alt="大兄弟，你听说过东风快递，使命必达吗"></div>
+                    <div class="video_btn"></div>
+                    <div class="text">
+                        <p>大兄弟，你听说过东风快递，使命必达吗</p>
+                    </div>
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.3dmgame.com/original/3743178.html" target="_blank">
+                    <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210819/1629353241_300085.png" alt="菜狗杯单排决赛回顾"></div>
+                    <div class="video_btn"></div>
+                    <div class="text">
+                        <p>菜狗杯单排决赛回顾</p>
+                    </div>
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.3dmgame.com/original/3743177.html" target="_blank">
+                    <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210819/1629353268_465332.png" alt="菜狗杯预选赛回顾"></div>
+                    <div class="video_btn"></div>
+                    <div class="text">
+                        <p>菜狗杯预选赛回顾</p>
+                    </div>
+                </a>
+            </li>
+                </ul>
+    </div>
+    <div class="list_b">
+                <div class="index_today">
+            <div class="today">
+                <div class="p">
+                    <span class="day">19</span>/<span class="mouth">09</span>
+                </div>
+                <div class="week">周<i>日</i></div>
+            </div>
+            <div class="news_">
+                                <a href="https://www.3dmgame.com/original/3742004.html" target="_blank" class="bt">游戏历史上的今天：《特鲁尼克大冒险》在日本发售</a>
+                                <a  href="javascript:void(0);" class="to_bt2">游戏历史的今天</a>
+            </div>
+        </div>
+        <ul>
+                    <li><a href="https://www.3dmgame.com/original/3743243.html" target="_blank">篮球和嘻哈，到底是怎么混到一起去的？</a><span class="time"><u></u>9</span></li>
+                    <li><a href="https://www.3dmgame.com/original/3743239.html" target="_blank">《战匠杜沃：序章》试玩报告：潜力十足，未来可期</a><span class="time"><u></u>4</span></li>
+                    <li><a href="https://www.3dmgame.com/original/3743242.html" target="_blank">Epic一举冲破苹果垄断，那么游戏氪金会变得更便宜吗？</a><span class="time"><u></u>28</span></li>
+                    <li><a href="https://www.3dmgame.com/original/3743238.html" target="_blank">网友们都觉得《荣耀新三国》的“新”，新在什么地方</a><span class="time"><u></u>3</span></li>
+                    <li><a href="https://www.3dmgame.com/original/3743237.html" target="_blank">持续且可见的变强，是刷子游戏最重要的内核</a><span class="time"><u></u>18</span></li>
+                    <li><a href="https://www.3dmgame.com/original/3743235.html" target="_blank">剧情驱动型游戏没有未来？只是它们不够好而已</a><span class="time"><u></u>17</span></li>
+                    <li><a href="https://www.3dmgame.com/original/3743236.html" target="_blank">《游灵》抢先体验阶段试玩报告：善灵附身</a><span class="time"><u></u>2</span></li>
+                </ul>
+    </div>
+</div>
+            </div>
+             <div class="Min2_M">
+                <div class="bt_wrap">
+        <a href="https://www.3dmgame.com/news/202109/3823932.html" target="_blank" class="bt_a">光荣公开TGS时间表 将公布新作细节</a>
+        <div class="bt_b">
+                <a href="https://www.3dmgame.com/news/202109/3823972.html" target="_blank">国产FPS《边境》新预告</a>
+                <span></span>
+                <a href="https://www.3dmgame.com/news/202109/3823977.html" target="_blank">《怪奇物语》第四季杀青</a>
+            </div>
+        <a href="https://www.3dmgame.com/news/202109/3823958.html" target="_blank" class="bt_a">《最终幻想14》6.0更新 全职业新技能预告</a>
+        <div class="bt_b">
+                <a href="https://www.3dmgame.com/news/202109/3823966.html" target="_blank">吃鸡新游预约超4千万</a>
+                <span></span>
+                <a href="https://www.3dmgame.com/news/202109/3823943.html" target="_blank">微软两款新作曝光</a>
+            </div>
+</div>
+
+                <div class="Listwrap">
+    <div class="lis" style="display: block">
+        <ul>
+                <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824027.html" target="_blank"  >前育碧高管加入亚马逊游戏部门 负责全新高成本大作</a>
+                <span>16:32</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824026.html" target="_blank"  >《传说之下》开发者解释《三角符文》第二章为何免费</a>
+                <span>16:21</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3824025.html" target="_blank"  >轻松模拟游戏《水族箱设计师》将于10月21日发售</a>
+                <span>16:07</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3824024.html" target="_blank"  >《真女神转生5》恶魔介绍：日本神话木叶天狗</a>
+                <span>15:57</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824023.html" target="_blank"  >媒体：苹果后年推首款折叠手机 有两种折叠形态</a>
+                <span>15:48</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824022.html" target="_blank"  >THQ Nordic旗下游戏阵容庞大 仍有28款游戏尚未公布</a>
+                <span>15:15</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824021.html" target="_blank"  >传火吗？ACTOYS公布《黑暗之魂》Q版手办预购开始！</a>
+                <span>14:55</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3824020.html" target="_blank"  >踏上全新舞台 《英雄传说：黎之轨迹》开场动画欣赏</a>
+                <span>14:28</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824018.html" target="_blank"  >新作《黑岩射手 DAWN FALL》公布 官方网站上线</a>
+                <span>14:19</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3824019.html" target="_blank"  >《真女神转生5》恶魔介绍：古波斯契约神密特拉</a>
+                <span>14:14</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824017.html" target="_blank"  >暴雪表示《暗黑破坏神2：重制版》NS版如丝般顺滑</a>
+                <span>14:10</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824016.html" target="_blank"  >《垃圾场模拟器》抢先体验版 10月13日登陆Steam</a>
+                <span>14:01</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824015.html" target="_blank"  >《英灵神殿》新内容发售后人气回升 在线玩家数逼近10万</a>
+                <span>13:59</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824014.html" target="_blank"  >全程无专业宇航员 SpaceX全平民太空旅行团返回地球</a>
+                <span>13:46</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/score/3742568.html" target="_blank"  class="hot_newnews"  >《海沙风云》评测：本年度最让人惊喜的AVG作品</a>
+                <span>12:11</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824013.html" target="_blank"  >《生化危机》官方发布“保护伞”公司主题腕表</a>
+                <span>12:00</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824012.html" target="_blank"  >科幻巨制《沙丘》内地定档 10月22日正式上映</a>
+                <span>11:58</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3824011.html" target="_blank"  >《使命召唤：战区》新Bug：自动驾驶的车辆</a>
+                <span>11:26</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824010.html" target="_blank"  >粉丝望重制《漫威VS卡普空2》 重制工作室支持</a>
+                <span>10:53</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/original/3743243.html" target="_blank"  >篮球和嘻哈，到底是怎么混到一起去的？</a>
+                <span>10:49</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824009.html" target="_blank"  >马斯克表示卫星网络服务Starlink十月推出正式版</a>
+                <span>10:16</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824008.html" target="_blank"  class="hot_newnews"  >LOL将加大挂机打击力度 挂机者将获1至14天封禁</a>
+                <span>09:58</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824007.html" target="_blank"  >肉鸽《传说法师》免费更新 两个全新BGM可切换</a>
+                <span>09:41</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824006.html" target="_blank"  >连接断开黑屏重启 任天堂NS音频设备配对功能麻烦不断</a>
+                <span>09:32</span>
+            </li>
+                                            </ul></div><div class="lis"><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824005.html" target="_blank"  >PS4固件9.0更新遭遇严重问题 部分玩家主机直接变砖</a>
+                <span>09:01</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824004.html" target="_blank"  >Suda 51畅谈《英雄不再3》主角登陆大乱斗可能性</a>
+                <span>08:52</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824003.html" target="_blank"  >《使命召唤18：先锋》Beta公测体验时间翻倍</a>
+                <span>08:27</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824002.html" target="_blank"  >索尼子公司推出PS5专用固态硬盘产品：2142元起</a>
+                <span>08:17</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824001.html" target="_blank"  >索尼电影负责人：将来收购的重心将是游戏 而非电影行业</a>
+                <span>07:21</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3824000.html" target="_blank"  >任天堂OLED Switch机型对外展示 首批真机照</a>
+                <span>06:58</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823999.html" target="_blank"  >《使命召唤18：先锋》多人BETA已经出现了外挂</a>
+                <span>06:43</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823998.html" target="_blank"  >《黑道圣徒：重启版》新演示泄露 更多新画面曝光</a>
+                <span>06:31</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823997.html" target="_blank"  >《底特律：变人》开发商或在制作星球大战游戏</a>
+                <span>00:20</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823996.html" target="_blank"  >SE展示《Deep Insanity Asylum》新预告片和截图</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823995.html" target="_blank"  >《蓝色反射：帝》全新TVCM展示少女组合和奇异世界</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823994.html" target="_blank"  >与《幽浮》相比 《漫威暗夜之子》任务更长战斗更短</a>
+                <span>09-18</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823993.html" target="_blank"  >《战地2042》开发者：跳票不意味着游戏陷入困境</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/bagua/4884.html" target="_blank"  >德国美女sophie_xdt福利图赏 天使面孔魔鬼身材</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/bagua/4883.html" target="_blank"  class="hot_newnews"  >3DM轻松一刻第608期 杜蕾斯中秋月饼盒就是不一样</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823992.html" target="_blank"  >《孤岛危机》Steam褒贬不一 技术问题较多</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/score/3742566.html" target="_blank"  class="hot_newnews"  >《荒神2》评测：刺客还是战士？爽就完事了</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823991.html" target="_blank"  >《究极大越野：传奇》上架Steam 支持简体中文</a>
+                <span>09-18</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823990.html" target="_blank"  >《猎魔人》《鹰眼》《星际牛仔》等剧集新剧照</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823989.html" target="_blank"  >剧集《八十天环游地球》公布预告 10月10日播出</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823988.html" target="_blank"  >传AMD将提高Radeon RX 7000系列显卡定价</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/original/3743239.html" target="_blank"  >《战匠杜沃：序章》试玩报告：潜力十足，未来可期</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/original/3743242.html" target="_blank"  class="hot_newnews"  >Epic一举冲破苹果垄断，那么游戏氪金会变得便宜吗？</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823987.html" target="_blank"  >八方旅人+平台跳跃 《Crystal Project》2022年发售</a>
+                <span>09-18</span>
+            </li>
+                                            </ul></div><div class="lis"><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823986.html" target="_blank"  >北京广电：杜绝娘炮审美取向 不得参与娘炮宣传造势</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823985.html" target="_blank"  >RTX3060显卡偷偷换新GPU了 GA104屏蔽核心出现</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823984.html" target="_blank"  >暴雪：买不买《暗黑破坏神2：重置版》由玩家决定</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823983.html" target="_blank"  class="hot_newnews"  >《Apex英雄》因服务器问题将延长段位本赛季上半时长</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823982.html" target="_blank"  >《尼克全明星大乱斗》猫狗出招 今年秋季发售</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823981.html" target="_blank"  >传闻：希捷将推出500GB的Xbox Series X|S拓展卡</a>
+                <span>09-18</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823980.html" target="_blank"  >炸鸡叔将在网飞大型警匪剧《Jigsaw》中饰演要角</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823978.html" target="_blank"  >跑酷FPS《Severed Steel》今日发售 11分钟演示</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823977.html" target="_blank"  >网飞《怪奇物语》第四季拍摄完成 新预告片制作中</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823976.html" target="_blank"  class="hot_newnews"  >《赛博朋克2077》内部演示文稿公布 含众多未用元素</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823975.html" target="_blank"  >《蓝色反射：帝》美少女角色介绍 可爱又温柔</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823974.html" target="_blank"  >《分裂之门》将会比《光环：无限》更早推出地图编辑</a>
+                <span>09-18</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823973.html" target="_blank"  >《索尼克》之父中裕司56岁生日 正重学编程开发手游</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823972.html" target="_blank"  >太空0重力FPS《边境》最新预告 消杀模式登场</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823967.html" target="_blank"  >油管博主在囤积癖患者废弃屋子找出约值十万美元游戏</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823971.html" target="_blank"  class="hot_newnews"  >粉丝绘制《战神6》艺术图 奎爷霸气大战埃及神</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823970.html" target="_blank"  >类魂游戏《钢铁之尾》今日正式发售 Steam特别好评</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823969.html" target="_blank"  >《尚气与十环传奇》新角色海报 刘思慕新写真图赏</a>
+                <span>09-18</span>
+            </li>
+                                            </ul><ul>
+                                            <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823968.html" target="_blank"  >格鲁吉亚国际象棋大师因美剧《后翼弃兵》起诉网飞</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823966.html" target="_blank"  >《绝地求生:New State》预约超4千万 上线日期将揭露</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823965.html" target="_blank"  >新月姬格斗《Type Lumina》对战演示 翡翠vs琥珀</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823964.html" target="_blank"  class="hot_newnews"  >港媒传《寻秦记》香港定档 古天乐公司回应：没有</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <em class="video_btn"></em>
+                                <a href="https://www.3dmgame.com/news/202109/3823963.html" target="_blank"  >《尼克全明星大乱斗》派大星出招 今年秋季发售</a>
+                <span>09-18</span>
+            </li>
+                                                        <li>
+                <i></i>
+                                <a href="https://www.3dmgame.com/news/202109/3823962.html" target="_blank"  >iPhone 13粉色款爆红 天猫3分钟售罄！苹果忙补货</a>
+                <span>09-18</span>
+            </li>
+                        </ul>
+    </div>
+        <div class="tabbtn">
+        <span class="btn_L"></span>
+        <span class="point"></span>
+        <span class="btn_R"></span>
+    </div>
+    </div>
+
+                <div class="hot-hg">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico21"></i>热门回顾</span>
+            <ul class="title_ul">
+                <li class="on">1</li>
+                <li class="">2</li>
+                <li class="">3</li>
+            </ul>
+        </div>
+    </div>
+    <div class="ul_box">
+        <ul style="display: block;">
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823986.html" target="_blank" class="bt">北京广电：杜绝娘炮审美取向 不得参与娘炮宣传造势</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823986.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>226</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823849.html" target="_blank" class="bt">经典ARPG游戏《秦殇》上架Steam 仅支持英文</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823849.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>117</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823820.html" target="_blank" class="bt">iPhone 13和游戏显卡 哪个更值得购买呢？</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823820.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>89</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823828.html" target="_blank" class="bt">《战神5》将是北欧神话最终作 不想把故事拉的太长</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823828.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>86</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823907.html" target="_blank" class="bt">15省份上调最低工资标准：最高涨300元 打工人受益</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823907.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>86</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823923.html" target="_blank" class="bt">高能电玩节：《明末：渊虚之羽》18分钟实机演示</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823923.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>82</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823953.html" target="_blank" class="bt">《明末：渊虚之羽》新视觉图 国风克苏鲁魂类ARPG</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823953.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>73</span>
+                    </a>
+                </li>
+                    </ul>
+        <ul style="display: none;">
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823984.html" target="_blank" class="bt">暴雪：买不买《暗黑破坏神2：重置版》由玩家决定</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823984.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>67</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823825.html" target="_blank" class="bt">六成大学生认为毕业10年内能年入百万 大佬犀利点评</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823825.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>61</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://ol.3dmgame.com/news/202109/32534.html" target="_blank" class="bt">《魔兽世界》部分画像被和谐：乳沟没了 舞娘变水果</a>
+                    <a href="https://ol.3dmgame.com/news/202109/32534.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>61</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823824.html" target="_blank" class="bt">国产新作《明末》将亮相高能电玩节 公开实机演示</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823824.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>52</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/bagua/4879.html" target="_blank" class="bt">俄罗斯美女Coser福利图赏 寡姐绯红女巫超性感</a>
+                    <a href="https://www.3dmgame.com/bagua/4879.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>51</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823962.html" target="_blank" class="bt">iPhone 13粉色款爆红 天猫3分钟售罄！苹果忙补货</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823962.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>51</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823950.html" target="_blank" class="bt">研究表明 8个比特币报废一张 RTX 3090 显卡</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823950.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>45</span>
+                    </a>
+                </li>
+                    </ul>
+        <ul style="display: none;">
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823894.html" target="_blank" class="bt">制作人:《太吾绘卷》已送审 政策很紧 但不用担心和谐</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823894.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>43</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823969.html" target="_blank" class="bt">《尚气与十环传奇》新角色海报 刘思慕新写真图赏</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823969.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>42</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823976.html" target="_blank" class="bt">《赛博朋克2077》内部演示文稿公布 含众多未用元素</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823976.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>42</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823860.html" target="_blank" class="bt">外媒评测PS5新机型：和首发版性能并无二致</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823860.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>41</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/bagua/4882.html" target="_blank" class="bt">日本美女辻りりさ福利图赏 傲人身材非常吸睛</a>
+                    <a href="https://www.3dmgame.com/bagua/4882.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>40</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3824002.html" target="_blank" class="bt">索尼子公司推出PS5专用固态硬盘产品：2142元起</a>
+                    <a href="https://www.3dmgame.com/news/202109/3824002.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>40</span>
+                    </a>
+                </li>
+                            <li>
+                    <i></i>
+                    <a href="https://www.3dmgame.com/news/202109/3823932.html" target="_blank" class="bt">光荣公开TGS时间表 《信长之野望･新生》、《零》等</a>
+                    <a href="https://www.3dmgame.com/news/202109/3823932.html" target="_blank" class="cm">
+                        <u></u>
+                        <span>39</span>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+</div>
+             </div>
+             <div class="Min2_R">
+                 <div class="Med-info">
+    <div class="Topline"></div>
+    <div class="infowrap">
+        <div class="inftop">3DM媒体信息</div>
+        <a href="https://shop.3dmgame.com/" class="shopdownl" target="_blank"><span></span></a>
+        <a href="https://shouyou.3dmgame.com/ios/14856.html" class="iosdownl" target="_blank"><span>3.5</span></a>
+        <a href="https://shouyou.3dmgame.com/android/5995.html" class="azdownl" target="_blank"><span>5.8</span></a>
+        <div class="ewmwrap">
+            <a href="https://weibo.com/3dmgame" target="_blank">
+            <div class="lis">
+                <div class="ewm"><img src="/index/images/weibo.png" alt="新浪微博"></div>
+                <i class="wb"></i>
+                <p>新浪微博</p>
+                <span>账号：3dmgame</span>
+            </div>
+            </a>
+            <div class="lis">
+                <div class="ewm"><img src="/index/images/weixin.jpg" alt="微信公众号"></div>
+                <i class="wx"></i>
+                <p>微信公众号</p>
+                <span>账号:sdmgame</span>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="stmshoplink" style="position: absolute; z-index: 1; background: #fff;">
+        <!-- 广告位：新首页擎天柱 -->
+        <script>
+            (function() {
+                var s = "_" + Math.random().toString(36).slice(2);
+                document.write('<div id="' + s + '"></div>');
+                (window.slotbydup=window.slotbydup || []).push({
+                    id: '5868485',
+                    container: s,
+                    size: '292,320',
+                    display: 'inlay-fix'
+                });
+            })();
+        </script>
+    </div>
+</div>
+
+                <div class="near_wrap">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico7"></i>近期新作</span>
+            <a href="https://www.3dmgame.com/games/zq/" target="_blank" class="mor">更多<i></i></a>
+        </div>
+    </div>
+    <ul>
+            <li class="on" >
+            <a class="lis_b" href="https://www.3dmgame.com/games/eastward/" target="_blank">
+                <img class="img" src="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20181129/1543469236_451743.jpg" alt="风来之国">
+                <div class="infowrap">
+                    <div class="bt">
+                        <span>风来之国</span>
+                    </div>
+                    <div class="time">
+                        <p><i></i>09-16<em></em></p>
+                        <p>RPG</p>
+                    </div>
+                </div>
+            </a>
+            <div class="lis_a">
+                <a href="https://www.3dmgame.com/games/eastward/" target="_blank">风来之国</a><span>简中</span>
+            </div>
+        </li>
+            <li  >
+            <a class="lis_b" href="https://www.3dmgame.com/games/deathloop/" target="_blank">
+                <img class="img" src="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210317/1615968640_354092.jpg" alt="死亡循环">
+                <div class="infowrap">
+                    <div class="bt">
+                        <span>死亡循环</span>
+                    </div>
+                    <div class="time">
+                        <p><i></i>09-14<em></em></p>
+                        <p>ACT</p>
+                    </div>
+                </div>
+            </a>
+            <div class="lis_a">
+                <a href="https://www.3dmgame.com/games/deathloop/" target="_blank">死亡循环</a><span>简中</span>
+            </div>
+        </li>
+            <li  >
+            <a class="lis_b" href="https://www.3dmgame.com/games/talesofarise/" target="_blank">
+                <img class="img" src="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190610/1560147729_724838.jpg" alt="破晓传说">
+                <div class="infowrap">
+                    <div class="bt">
+                        <span>破晓传说</span>
+                    </div>
+                    <div class="time">
+                        <p><i></i>09-10<em></em></p>
+                        <p>RPG</p>
+                    </div>
+                </div>
+            </a>
+            <div class="lis_a">
+                <a href="https://www.3dmgame.com/games/talesofarise/" target="_blank">破晓传说</a><span>简中</span>
+            </div>
+        </li>
+            <li  >
+            <a class="lis_b" href="https://www.3dmgame.com/games/nba2k22/" target="_blank">
+                <img class="img" src="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210715/1626311166_672048.jpg" alt="NBA 2K22">
+                <div class="infowrap">
+                    <div class="bt">
+                        <span>NBA 2K22</span>
+                    </div>
+                    <div class="time">
+                        <p><i></i>09-10<em></em></p>
+                        <p>SPG</p>
+                    </div>
+                </div>
+            </a>
+            <div class="lis_a">
+                <a href="https://www.3dmgame.com/games/nba2k22/" target="_blank">NBA 2K22</a><span>简中</span>
+            </div>
+        </li>
+            <li  >
+            <a class="lis_b" href="https://www.3dmgame.com/games/fist/" target="_blank">
+                <img class="img" src="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20200827/1598515335_468960.jpg" alt="暗影火炬城">
+                <div class="infowrap">
+                    <div class="bt">
+                        <span>暗影火炬城</span>
+                    </div>
+                    <div class="time">
+                        <p><i></i>09-07<em></em></p>
+                        <p>ACT</p>
+                    </div>
+                </div>
+            </a>
+            <div class="lis_a">
+                <a href="https://www.3dmgame.com/games/fist/" target="_blank">暗影火炬城</a><span>简中</span>
+            </div>
+        </li>
+        </ul>
+</div>
+                <div class="hh_fb">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico8"></i>汉化发布</span>
+            <a href="https://www.3dmgame.com/hanhua/" target="_blank" class="mor">更多<i></i></a>
+        </div>
+    </div>
+    <ul>
+        <li>
+            <a href="https://www.3dmgame.com/hanhua_1" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20180726/1532569701_351408.jpg" alt="3dm汉化"></a>
+        </li>
+        <li>                          
+            <div class="bt">
+                <i></i>
+                <a href="https://dl.3dmgame.com/pc/133836.html" target="_blank">《团战经理》 中文免安装版</a>
+            </div>
+        </li>
+        <li>                          
+            <div class="bt">
+                <i></i>
+                <a href="https://dl.3dmgame.com/pc/133083.html" target="_blank">《空中王国》 中文免安装版</a>
+            </div>
+        </li>
+        <li>                          
+            <div class="bt">
+                <i></i>
+                <a href="https://dl.3dmgame.com/pc/132908.html" target="_blank">《Haydee 2》 中文免安装版</a>
+            </div>
+        </li>
+        <li>                          
+            <div class="bt">
+                <i></i>
+                <a href="https://dl.3dmgame.com/pc/132742.html" target="_blank">《杀手13重置版》 中文免安装版</a>
+            </div>
+        </li>
+    </ul>
+</div>
+                <div class="jijiang_fb">
+    <div class="QZ_title">
+        <div class="bt">
+            <span><i class="ico9"></i>即将发布</span>
+            <a href="https://www.3dmgame.com/release/pc202109/" target="_blank" class="mor">更多<i></i></a>
+        </div>
+    </div>
+    <ul>
+    	<li>
+			<div class="jijiang_lia">
+				<a href="https://www.3dmgame.com/games/diablo2re/" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210220/1613783021_767858.png" alt="暗黑破坏神2：重制版"></a>
+				<a href="https://www.3dmgame.com/games/diablo2re/" target="_blank" class="bt">暗黑破坏神2：重制版</a>
+				<div class="time">
+					<p>ACT</p>
+					<p>2021-09-23</p>
+				</div>
+				<a href="https://www.3dmgame.com/games/diablo2re/" target="_blank" class="dy">订阅</a>
+			</div>                            
+			<i class="line"></i>
+        </li>
+    	<li>
+			<div class="jijiang_lia">
+				<a href="https://www.3dmgame.com/games/lostjudgment/" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210508/1620437233_727822.jpg" alt="审判之逝：湮灭的记忆"></a>
+				<a href="https://www.3dmgame.com/games/lostjudgment/" target="_blank" class="bt">审判之逝：湮灭的记忆</a>
+				<div class="time">
+					<p>ACT</p>
+					<p>2021-09-24</p>
+				</div>
+				<a href="https://www.3dmgame.com/games/lostjudgment/" target="_blank" class="dy">订阅</a>
+			</div>                            
+			<i class="line"></i>
+        </li>
+    	<li>
+			<div class="jijiang_lia">
+				<a href="https://www.3dmgame.com/games/yxcslzgj/" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20201217/1608196748_574537.jpg" alt="英雄传说：黎之轨迹"></a>
+				<a href="https://www.3dmgame.com/games/yxcslzgj/" target="_blank" class="bt">英雄传说：黎之轨迹</a>
+				<div class="time">
+					<p>RPG</p>
+					<p>2021-09-30</p>
+				</div>
+				<a href="https://www.3dmgame.com/games/yxcslzgj/" target="_blank" class="dy">订阅</a>
+			</div>                            
+			<i class="line"></i>
+        </li>
+    	<li>
+			<div class="jijiang_lia">
+				<a href="https://www.3dmgame.com/games/fifa22/" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210712/1626058067_639479.jpg" alt="FIFA 22"></a>
+				<a href="https://www.3dmgame.com/games/fifa22/" target="_blank" class="bt">FIFA 22</a>
+				<div class="time">
+					<p>SPG</p>
+					<p>2021-10-02</p>
+				</div>
+				<a href="https://www.3dmgame.com/games/fifa22/" target="_blank" class="dy">订阅</a>
+			</div>                            
+			<i class="line"></i>
+        </li>
+    	<li>
+			<div class="jijiang_lia">
+				<a href="https://www.3dmgame.com/games/farcry6/" target="_blank" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20200713/1594602612_219856.jpg" alt="孤岛惊魂6"></a>
+				<a href="https://www.3dmgame.com/games/farcry6/" target="_blank" class="bt">孤岛惊魂6</a>
+				<div class="time">
+					<p>STG</p>
+					<p>2021-10-07</p>
+				</div>
+				<a href="https://www.3dmgame.com/games/farcry6/" target="_blank" class="dy">订阅</a>
+			</div>                            
+			<i class="line"></i>
+        </li>
+    </ul>
+</div>
+             </div>
+        </div>
+        <div class="Min_8">
+            <div class="Index_tit">
+    <div class="tit_L">
+        <i class="yl"></i>
+        <span>娱乐 - 频道</span>
+    </div>
+    <div class="tit_R">
+        <a href="https://www.3dmgame.com/bagua_62_1/" target="_blank"><i></i>娱乐八卦</a>
+        <a href="https://www.3dmgame.com/bagua_63_1/" target="_blank"><i></i>涨涨姿势</a>
+        <a href="https://www.3dmgame.com/bagua_65_1/" target="_blank"><i></i>人在囧图</a>
+        <a href="https://www.3dmgame.com/bagua_66_1/" target="_blank"><i></i>精选壁纸</a>
+    </div>
+    <div class="line"></div>
+</div>
+            <div class="entertainment">
+    <div class="lista">
+                    <a href="https://www.3dmgame.com/bagua/4876.html" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210916/1631776761_109114.jpg" alt="周四福利囧图 隔壁住了情侣每晚都是煎熬"></div>
+                <div class="text">
+                    <p>周四福利囧图 隔壁住了情侣每晚都是煎熬</p>
+                </div>
+            </a>
+                    <a href="https://www.3dmgame.com/bagua/4881.html" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631956228_370067.jpg" alt="3DM轻松一刻 路易吉竟然有女装的癖好"></div>
+                <div class="text">
+                    <p>3DM轻松一刻 路易吉竟然有女装的癖好</p>
+                </div>
+            </a>
+            </div>
+    <div class="listb">
+        <ul>
+                        <li><a href="https://www.3dmgame.com/bagua/4884.html" target="_blank">德国美女sophie_xdt福利图赏 天使面孔魔鬼身材</a><span class="time">09-18</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4883.html" target="_blank">3DM轻松一刻第608期 杜蕾斯中秋月饼盒就是不一样</a><span class="time">09-18</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4882.html" target="_blank">日本美女辻りりさ福利图赏 傲人身材非常吸睛</a><span class="time">09-17</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4881.html" target="_blank">3DM轻松一刻第607期 路易吉竟然有女装的癖好</a><span class="time">09-17</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4880.html" target="_blank">时隔92天返航地球 神十二载人飞行任务圆满成功</a><span class="time">09-17</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4879.html" target="_blank">俄罗斯美女Coser福利图赏 寡姐绯红女巫超性感</a><span class="time">09-16</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4878.html" target="_blank">3DM轻松一刻第606期 性感兔女郎和猛男的故事！</a><span class="time">09-16</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4876.html" target="_blank">周四福利囧图云飞系列 隔壁住了情侣每晚都是煎熬</a><span class="time">09-16</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4877.html" target="_blank">新高考改革秋季实施 7省高考取消文理分科</a><span class="time">09-16</span></li>
+                        <li><a href="https://www.3dmgame.com/bagua/4874.html" target="_blank">日本性感美女山本ゆう福利图赏 H罩杯太震撼了</a><span class="time">09-15</span></li>
+                    </ul>
+    </div>
+    <div class="listc">
+        <ul>
+            <li class="liem1">
+                                <a href="https://www.3dmgame.com/bagua/4882.html" target="_blank">
+                    <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210918/1631956291_566534.jpg" alt="国外妹子美图合集欣赏"></div>
+                    <div class="text">
+                        <p>国外妹子美图合集欣赏</p>
+                    </div>
+                </a>
+                            </li>
+            <li>
+                                    <a href="https://www.3dmgame.com/bagua/4862.html" target="_blank">
+                        <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210910/1631265574_123462.jpg" alt="三上悠亚晒万圣节Cos"></div>
+                        <div class="text">
+                            <p>三上悠亚晒万圣节Cos</p>
+                        </div>
+                    </a>
+                                                    <a href="https://www.3dmgame.com/bagua/4879.html" target="_blank">
+                        <div class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210917/1631865512_150755.jpg" alt="国外Cos美图合集欣赏"></div>
+                        <div class="text">
+                            <p>国外Cos美图合集欣赏</p>
+                        </div>
+                    </a>
+                            </li>
+        </ul>
+    </div>
+</div>
+        </div>
+        <div class="tonglona_3">
+<script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5866586',
+            container: s,
+            size: '1160,90',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+    <i style="width:26px;height:15px;position:absolute;left:0;bottom:0;background:url(https://www.3dmgame.com/page/images/icon_ad.png);"></i>
+</div>
+        <div class="Min_4">
+            <div class="Index_tit">
+    <div class="tit_L">
+        <i class="dj"></i>
+        <span>单机 - 游戏</span>
+    </div>
+    <div class="tit_R">
+        <a href="https://www.3dmgame.com/original/" target="_blank"><i></i>原创</a>
+        <a href="https://www.3dmgame.com/games/zq_1/" target="_blank"><i></i>专区</a>
+        <a href="https://www.3dmgame.com/phb.html" target="_blank"><i></i>排行榜</a>
+        <a href="https://www.3dmgame.com/gl_all_1/" target="_blank"><i></i>攻略</a>
+        <a href="https://www.3dmgame.com/tag_1/" target="_blank"><i></i>标签</a>
+        <a href="https://www.3dmgame.com/hanhua_1/" target="_blank"><i></i>汉化</a>
+        <a href="https://dl.3dmgame.com/patch/" target="_blank"><i></i>补丁</a>
+    </div>
+    <div class="line"></div>
+</div>
+            <div class="Min4_L">
+                <div class="M4_a">
+  <div class="QZ_title">
+    <div class="bt">
+      <span><i class="ico11"></i>近期大作</span>
+      <a href="https://www.3dmgame.com/games/zq/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+    <ul>
+      <li>
+        <a href="https://www.3dmgame.com/games/eastward/" target="_blank" class="img">
+          <img alt="风来之国" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20181129/1543469231_487156.jpg" />
+        </a>
+        <a href="https://www.3dmgame.com/games/eastward/" target="_blank" class="bt">风来之国</a>
+        <div class="time">09月16号</div>
+        <div class="bqwrap">标签：
+          <a href="https://www.3dmgame.com/tag/tanxian_1/" target="_blank">探险</a>,
+          <a href="https://www.3dmgame.com/tag/xiangsu_1/" target="_blank">像素</a>,
+          <a href="https://www.3dmgame.com/tag/kaifangshijie_1/" target="_blank">开放世界</a>,
+          <a href="https://www.3dmgame.com/tag/duli_1/" target="_blank">独立</a>,
+          <a href="https://www.3dmgame.com/tag/gc_1/" target="_blank">国产</a>,
+        </div>
+        <div class="Item">
+          <a href="https://www.3dmgame.com/news/202109/3823669.html" target="_blank"><i></i>MC均分85</a>
+          <a href="https://www.3dmgame.com/news/201908/3769379.html" target="_blank"><i></i>确认登陆NS</a>
+          <a href="https://www.3dmgame.com/score/3742562.html" target="_blank"><i></i>3DM评测</a>
+          <a href="https://www.3dmgame.com/news/202107/3819981.html" target="_blank"><i></i>公开试玩视频</a>
+          <a href="https://www.3dmgame.com/news/201912/3777826.html" target="_blank"><i></i>体验美妙旅程</a>
+          <a href="https://www.3dmgame.com/news/201811/3749163.html" target="_blank"><i></i>穿越回90年代</a>
+          <a href="https://www.3dmgame.com/tu/3600697.html" target="_blank"><i></i>高清截图下载</a>
+          <a href="https://www.3dmgame.com/news/202109/3823426.html" target="_blank"><i></i>时长30小时</a>
+          <a href="https://www.3dmgame.com/news/201804/3729953.html" target="_blank"><i></i>呵呵鱼发行</a>
+        </div>
+      </li>
+      <li>
+        <a href="https://www.3dmgame.com/games/deathloop/" target="_blank" class="img">
+          <img alt="死亡循环" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210317/1615968646_745754.jpg" />
+        </a>
+        <a href="https://www.3dmgame.com/games/deathloop/" target="_blank" class="bt">死亡循环</a>
+        <div class="time">09月14号</div>
+        <div class="bqwrap">标签：
+          <a href="https://www.3dmgame.com/tag/xuexing_1/" target="_blank">血腥</a>,
+        </div>
+        <div class="Item">
+          <a href="https://www.3dmgame.com/news/202109/3823525.html" target="_blank"><i></i>IGN10分</a>
+          <a href="https://www.3dmgame.com/news/202109/3823529.html" target="_blank"><i></i>媒体一致好评</a>
+          <a href="https://www.3dmgame.com/news/202109/3823175.html" target="_blank"><i></i>配置要求公布</a>
+          <a href="https://www.3dmgame.com/news/202105/3815010.html" target="_blank"><i></i>对话不会循环</a>
+          <a href="https://www.3dmgame.com/news/202107/3818575.html" target="_blank"><i></i>演示游戏玩法</a>
+          <a href="https://www.3dmgame.com/news/202103/3810607.html" target="_blank"><i></i>战术选择丰富</a>
+          <a href="https://www.3dmgame.com/news/202103/3809725.html" target="_blank"><i></i>PS5独占一年</a>
+          <a href="https://www.3dmgame.com/news/202107/3819397.html" target="_blank"><i></i>诸多预购奖励</a>
+          <a href="https://www.3dmgame.com/news/202109/3823289.html" target="_blank"><i></i>探寻黑礁真相</a>
+        </div>
+      </li>
+      <li>
+        <a href="https://www.3dmgame.com/games/talesofarise/" target="_blank" class="img">
+          <img alt="破晓传说" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20190610/1560147725_889866.jpg" />
+        </a>
+        <a href="https://www.3dmgame.com/games/talesofarise/" target="_blank" class="bt">破晓传说</a>
+        <div class="time">09月10号</div>
+        <div class="bqwrap">标签：
+          <a href="https://www.3dmgame.com/tag/mohuan_1/" target="_blank">魔幻</a>,
+          <a href="https://www.3dmgame.com/tag/nvzhurenweng_1/" target="_blank">女主人翁</a>,
+          <a href="https://www.3dmgame.com/tag/kaifangshijie_1/" target="_blank">开放世界</a>,
+        </div>
+        <div class="Item">
+          <a href="https://www.3dmgame.com/news/202109/3823180.html" target="_blank"><i></i>MC均分87</a>
+          <a href="https://www.3dmgame.com/news/202108/3822169.html" target="_blank"><i></i>主题曲预告</a>
+          <a href="https://www.3dmgame.com/news/202108/3821784.html" target="_blank"><i></i>系列术技进化</a>
+          <a href="https://www.3dmgame.com/news/202108/3820935.html" target="_blank"><i></i>别祖Boss战</a>
+          <a href="https://www.3dmgame.com/news/202108/3820675.html" target="_blank"><i></i>DLC服饰音乐</a>
+          <a href="https://www.3dmgame.com/news/202107/3820072.html" target="_blank"><i></i>冒险精神预告</a>
+          <a href="https://www.3dmgame.com/news/202107/3818077.html" target="_blank"><i></i>战斗系统角色</a>
+          <a href="https://www.3dmgame.com/news/202106/3817082.html" target="_blank"><i></i>男主剑技华丽</a>
+          <a href="https://www.3dmgame.com/news/202105/3815583.html" target="_blank"><i></i>秘义特技演示</a>
+        </div>
+      </li>
+      <li>
+        <a href="https://www.3dmgame.com/games/nba2k22/" target="_blank" class="img">
+          <img alt="NBA 2K22" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210715/1626311162_283313.jpg" />
+        </a>
+        <a href="https://www.3dmgame.com/games/nba2k22/" target="_blank" class="bt">NBA 2K22</a>
+        <div class="time">09月10号</div>
+        <div class="bqwrap">标签：
+          <a href="https://www.3dmgame.com/tag/lanqiu_1/" target="_blank">篮球</a>,
+        </div>
+        <div class="Item">
+          <a href="https://www.3dmgame.com/news/202109/3823094.html" target="_blank"><i></i>MC模式</a>
+          <a href="https://www.3dmgame.com/news/202109/3823231.html" target="_blank"><i></i>MySTAFF</a>
+          <a href="https://www.3dmgame.com/news/202109/3822933.html" target="_blank"><i></i>梦幻球队</a>
+          <a href="https://www.3dmgame.com/news/202109/3822680.html" target="_blank"><i></i>投篮全面提升</a>
+          <a href="https://www.3dmgame.com/news/202109/3822756.html" target="_blank"><i></i>MyTEAM</a>
+          <a href="https://www.3dmgame.com/news/202107/3818159.html" target="_blank"><i></i>封面球员泄露</a>
+          <a href="https://www.3dmgame.com/news/202107/3819003.html" target="_blank"><i></i>PC版旧时代</a>
+          <a href="https://www.3dmgame.com/news/202108/3821535.html" target="_blank"><i></i>首批球员评分</a>
+          <a href="https://www.3dmgame.com/news/202108/3822446.html" target="_blank"><i></i>实机演示预告</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico12"></i>单机发售表</span>
+        <a href="https://www.3dmgame.com/release/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M4_b">
+    <div class="M4b_top">
+            <p  class="on" >PC</p>
+            <p >PS4</p>
+            <p >SWITCH</p>
+            <p >XBOXONE</p>
+    </div>
+    <div class="M4b_item">
+        <ul style="display: block">
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/aragami2/" target="_blank" class="bt">荒神2</a>
+                <div class="lx">ACT</div>
+                <div class="time">09-18</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/tailsofiron/" target="_blank" class="bt">Tails of Iron</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/gamedec/" target="_blank" class="bt">骇游侠探</a>
+                <div class="lx">RPG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/puertoviejo/" target="_blank" class="bt">老港</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/zanghua/" target="_blank" class="bt">葬花</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/eastward/" target="_blank" class="bt">风来之国</a>
+                <div class="lx">RPG</div>
+                <div class="time">09-16</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/deathloop/" target="_blank" class="bt">死亡循环</a>
+                <div class="lx">ACT</div>
+                <div class="time">09-14</div>
+            </li>
+        </ul>
+        <ul >
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/aragami2/" target="_blank" class="bt">荒神2</a>
+                <div class="lx">ACT</div>
+                <div class="time">09-18</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/tailsofiron/" target="_blank" class="bt">Tails of Iron</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/chernobylite/" target="_blank" class="bt">切尔诺贝利人</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/lostinrandom/" target="_blank" class="bt">任意迷途</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-10</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/nba2k22/" target="_blank" class="bt">NBA 2K22</a>
+                <div class="lx">SPG</div>
+                <div class="time">09-10</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/talesofarise/" target="_blank" class="bt">破晓传说</a>
+                <div class="lx">RPG</div>
+                <div class="time">09-09</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/bussimulator21/" target="_blank" class="bt">巴士模拟21</a>
+                <div class="lx">SIM</div>
+                <div class="time">09-07</div>
+            </li>
+        </ul>
+        <ul >
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/tailsofiron/" target="_blank" class="bt">Tails of Iron</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/ninokuni2rk/" target="_blank" class="bt">二之国2：幽灵国度</a>
+                <div class="lx">RPG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/eastward/" target="_blank" class="bt">风来之国</a>
+                <div class="lx">RPG</div>
+                <div class="time">09-16</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/lostinrandom/" target="_blank" class="bt">任意迷途</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-10</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/wlazzyql/" target="_blank" class="bt">瓦里奥制造：一起来！</a>
+                <div class="lx">PUZ</div>
+                <div class="time">09-10</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/nba2k22/" target="_blank" class="bt">NBA 2K22</a>
+                <div class="lx">SPG</div>
+                <div class="time">09-10</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/ys9/" target="_blank" class="bt">伊苏9</a>
+                <div class="lx">RPG</div>
+                <div class="time">09-09</div>
+            </li>
+        </ul>
+        <ul >
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/aragami2/" target="_blank" class="bt">荒神2</a>
+                <div class="lx">ACT</div>
+                <div class="time">09-18</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/tailsofiron/" target="_blank" class="bt">Tails of Iron</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/chernobylite/" target="_blank" class="bt">切尔诺贝利人</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-17</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/omenofsorrow/" target="_blank" class="bt">悲伤的征兆</a>
+                <div class="lx">FTG</div>
+                <div class="time">09-15</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/lostinrandom/" target="_blank" class="bt">任意迷途</a>
+                <div class="lx">AVG</div>
+                <div class="time">09-10</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/nba2k22/" target="_blank" class="bt">NBA 2K22</a>
+                <div class="lx">SPG</div>
+                <div class="time">09-10</div>
+            </li>
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/games/talesofarise/" target="_blank" class="bt">破晓传说</a>
+                <div class="lx">RPG</div>
+                <div class="time">09-09</div>
+            </li>
+        </ul>
+    </div>
+</div>
+            </div>
+            <div class="Min4_M">
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico7"></i>游戏新闻</span>
+        <a href="https://www.3dmgame.com/news/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="news_item">
+        <div class="lis_a">
+            <a href="https://www.3dmgame.com/news/202109/3823611.html" class="bt" target="_blank">《三国群英传8》DLC明日发售 倭族势力登场！</a>
+            <a href="https://www.3dmgame.com/news/202109/3823611.html" class="img" target="_blank"><img alt="《三国群英传8》DLC明日发售 倭族势力登场！" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/2021/0914/1631611747662.jpg" ></a>
+            <p class="miaoshu">
+	日出之国的神秘女王终于降临到了三国群英传的世界！今日(9月14日)，《三国群英传8》官方放出了DLC的第二部预告片——倭族势力篇，宣告倭族势力正式登场！并预告《三国群英传8》将于明日(9月15日)发售DLC。
+
+
+	
+	
+
+
+	从预告片中可以看到，本次DLC新增了「邪马台」和「狗</p>
+        </div>
+        <div class="lis_a">
+            <a href="https://www.3dmgame.com/news/202109/3822757.html" class="bt" target="_blank">侠客再扬帆————《我的侠客》登陆Steam平台</a>
+            <a href="https://www.3dmgame.com/news/202109/3822757.html" class="img" target="_blank"><img alt="侠客再扬帆————《我的侠客》登陆Steam平台" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210903/1630640087_858989.jpg" ></a>
+            <p class="miaoshu">
+	近日，由侠客工作室开发的国产武侠手游《我的侠客》将登陆PC端，并已在steam平台推出商店页面，预计将在国庆期间向玩家开放试玩DEMO。该作是一款2D复古武侠开放世界类角色扮演游戏，主要讲述了一个架空的江湖世界中，一众怀揣武侠大义于心胸的角色成长故事。主角在十六岁成人礼上，遇到神秘人破坏自己的</p>
+        </div>
+        <ul class="lis_b">
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/news/202109/3824027.html" class="bt" target="_blank">前育碧高管加入亚马逊游戏部门 负责全新高成本大作</a>
+                <span>09-19</span>
+            </li>               
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/news/202109/3824026.html" class="bt" target="_blank">《传说之下》开发者解释《三角符文》第二章为何免费</a>
+                <span>09-19</span>
+            </li>               
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/news/202109/3824025.html" class="bt" target="_blank">轻松模拟游戏《水族箱设计师》将于10月21日发售</a>
+                <span>09-19</span>
+            </li>               
+            <li>
+                <i></i>
+                <a href="https://www.3dmgame.com/news/202109/3824024.html" class="bt" target="_blank">《真女神转生5》恶魔介绍：日本神话木叶天狗</a>
+                <span>09-19</span>
+            </li>               
+        </ul>
+</div>
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico13"></i>游戏攻略</span>
+        <a href="https://www.3dmgame.com/gl/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="news_item">
+    <div class="lia_c">
+        <a href="https://www.3dmgame.com/gl/3836827.html" target="_blank" class="lis">
+            <div class="img"><img alt="《国王的恩赐2》5级兵种招募任务 红龙骨龙奇美拉天界战士招募方法" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210917/1631870966_282328.jpg" ></div>
+            <div class="bt">《国王的恩赐2》5级兵种招募任务 红龙骨龙奇美拉天界战士招募方法</div>
+        </a>
+        <a href="https://www.3dmgame.com/gl/3836750.html" target="_blank" class="lis">
+            <div class="img"><img alt="《破晓传说》全巨体怪物图鉴一览" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20210916/1631756451_740790.jpg" ></div>
+            <div class="bt">《破晓传说》全巨体怪物图鉴一览</div>
+        </a>
+    </div>
+    <ul class="lis_b">
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/gl/3836869.html" class="bt" target="_blank">《风来之国》调味料作用效果介绍</a>
+            <span>09-19</span>
+        </li>   
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/gl/3836868.html" class="bt" target="_blank">《风来之国》第一章收集流程攻略分享</a>
+            <span>09-19</span>
+        </li>   
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/gl/3836867.html" class="bt" target="_blank">《风来之国》第一个BOSS打法小技巧分享</a>
+            <span>09-19</span>
+        </li>   
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/gl/3836866.html" class="bt" target="_blank">《风来之国》简单刷钱方法介绍</a>
+            <span>09-19</span>
+        </li>   
+    </ul>
+</div>
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico2"></i>厂商快报</span>
+        <a href="https://www.3dmgame.com/news_38_1/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="news_item">
+    <div class="lis_a">
+        <a href="https://www.3dmgame.com/news/202007/3793419.html" class="bt" target="_blank">报名开始！48小时游戏极限开发活动2020 CiGA Game Jam线上进行！</a>
+        <a href="https://www.3dmgame.com/news/202007/3793419.html" class="img" target="_blank"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/2020/0720/1595251042465.jpg" alt="报名开始！48小时游戏极限开发活动2020 CiGA Game Jam线上进行！"></a>
+        <p class="miaoshu">
+	多年后当我们回想起2020年，会感慨这是一场全球都面临着的前所未有的挑战。由于疫情的影响，许多游戏相关的线下活动都不得不停摆或者移至线上进行。今年年初Global Game Jam也不得不以线上的方式进行。
+
+
+	作为华语圈最大的线下Game Jam活动，CiGA Game Jam历年都</p>
+    </div>
+    <div class="lis_a">
+        <a href="https://www.3dmgame.com/news/202007/3793251.html" class="bt" target="_blank">GMG夏促开启：羊毛+秒杀+好价，新增会员经验系统，多买多折扣</a>
+        <a href="https://www.3dmgame.com/news/202007/3793251.html" class="img" target="_blank"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/2020/0717/1595000641413.png" alt="GMG夏促开启：羊毛+秒杀+好价，新增会员经验系统，多买多折扣"></a>
+        <p class="miaoshu">
+	
+		&nbsp;Green&nbsp;Man&nbsp;Gaming即将在7月16日晚11点开启夏季促销，夏促将持续至8月3日晚同一时间。
+	
+	
+		 
+	
+	
+		小绿人的促销向来直截了当，没有猜来猜去，暗着明着的隐藏利好。除了低于Steam的史低折扣价格，小绿人也将每48</p>
+    </div>
+    <ul class="lis_b data_topaddin">
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/news/202109/3824010.html" target="_blank" class="bt">粉丝请愿重制《漫威VS卡普空2》引官方注意 游戏重制工作室支持</a>
+            <span>09-19</span>
+        </li>
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/news/202109/3824008.html" target="_blank" class="bt">《英雄联盟》将加大挂机行为打击力度 挂机者将获1至14天封禁</a>
+            <span>09-19</span>
+        </li>
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/news/202109/3823981.html" target="_blank" class="bt">传闻：希捷将推出500GB的Xbox Series X|S拓展存储卡</a>
+            <span>09-18</span>
+        </li>
+        <li>
+            <i></i>
+            <a href="https://www.3dmgame.com/news/202109/3823952.html" target="_blank" class="bt">索尼新收购工作室Firesprite开发新3A冒险游戏 招聘合适作者</a>
+            <span>09-18</span>
+        </li>
+    </ul>
+</div>
+            </div>
+            <div class="Min4_R">
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico2"></i>推荐资源</span>
+        <a href="https://dl.3dmgame.com" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M4R_a">
+    <ul>
+        <li>
+            <a href="https://dl.3dmgame.com/pc/135169.html" target="_blank" class="img"><img alt="简体中文免安装版" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20180716/1531731592_700402.jpg" ></a>
+            <a href="https://dl.3dmgame.com/pc/135169.html" target="_blank" class="bt">弗林：深红之子</a>
+            <div class="miaoshu">简体中文免安装版</div>
+            <div class="time">2021-09-17</div>
+            <a href="https://dl.3dmgame.com/pc/135169.html" target="_blank" class="downl">下载</a>
+        </li>
+        <li>
+            <a href="https://dl.3dmgame.com/pc/133210.html" target="_blank" class="img"><img alt="简体中文免安装版" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210106/1609917116_813304.jpg" ></a>
+            <a href="https://dl.3dmgame.com/pc/133210.html" target="_blank" class="bt">加油站大亨</a>
+            <div class="miaoshu">简体中文免安装版</div>
+            <div class="time">2021-09-17</div>
+            <a href="https://dl.3dmgame.com/pc/133210.html" target="_blank" class="downl">下载</a>
+        </li>
+        <li>
+            <a href="https://dl.3dmgame.com/pc/135575.html" target="_blank" class="img"><img alt="游戏库" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20201029/1603940279_551805.jpg" ></a>
+            <a href="https://dl.3dmgame.com/pc/135575.html" target="_blank" class="bt">牧场物语 橄榄镇与希望的大地</a>
+            <div class="miaoshu">游戏库</div>
+            <div class="time">2021-09-16</div>
+            <a href="https://dl.3dmgame.com/pc/135575.html" target="_blank" class="downl">下载</a>
+        </li>
+        <li>
+            <a href="https://dl.3dmgame.com/pc/133832.html" target="_blank" class="img"><img alt="官方中文 Steam正版分流" class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbkwdfirst/20210317/1615968640_354092.jpg" ></a>
+            <a href="https://dl.3dmgame.com/pc/133832.html" target="_blank" class="bt">死亡循环</a>
+            <div class="miaoshu">官方中文 Steam正版分流</div>
+            <div class="time">2021-09-14</div>
+            <a href="https://dl.3dmgame.com/pc/133832.html" target="_blank" class="downl">下载</a>
+        </li>
+    </ul>
+</div>
+                <div class="M4R_b">
+    <div class="yxk_top">
+        <p class="on">MOD</p>
+        <p>修改器</p>
+        <p>汉化补丁</p>
+        <p>其他补丁</p>
+    </div>
+        <div class="Item"  style="display: block"  >
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195033.html" class="bt" target="_blank">《求生之路2》佐伊飞行员夹克MOD</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195032.html" class="bt" target="_blank">《求生之路2》生化危机8主题菜单MOD</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195031.html" class="bt" target="_blank">《边缘世界》摧毁物品v1.3 MOD</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195030.html" class="bt" target="_blank">《边缘世界》人皮拼布v1.3 MOD</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195029.html" class="bt" target="_blank">《边缘世界》命令与征服战斗装甲v1.3 MOD</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195025.html" class="bt" target="_blank">《边缘世界》角斗士盔甲v1.3 MOD</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195023.html" class="bt" target="_blank">《边缘世界》岩石石头v1.3 MOD</a>
+            </div>
+        </div>
+        <div class="Item"  >
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195041.html" class="bt" target="_blank">《死亡循环》v1.708.0.34 十三项修改器[3DM]</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195040.html" class="bt" target="_blank">《牧场物语：橄榄镇与希望的大地》v1.0 三十三项修改器[3DM]</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195039.html" class="bt" target="_blank">《异形：火力小队》v1.0-v1.0.1.89360 二十三项修改器[3DM]</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195038.html" class="bt" target="_blank">《群星》v2.3.0-v3.1.1 二十二项修改器[3DM]</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195037.html" class="bt" target="_blank">《涅克罗蒙达：赏金猎人》v0.58333-v1.60429 十九项修改器[3DM]</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195036.html" class="bt" target="_blank">《戴森球计划》v0.6.15-v0.8.21 十六项修改器[3DM]</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195035.html" class="bt" target="_blank">《荒神2》v1.0 十四项修改器[3DM]</a>
+            </div>
+        </div>
+        <div class="Item"  >
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/190120.html" class="bt" target="_blank">《旧世界》 3DM汉化组汉化补丁v1.2</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/187020.html" class="bt" target="_blank">《质量效应：传奇版》 3DM汉化组汉化补丁v1.4</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/183147.html" class="bt" target="_blank">《团战经理》 3DM汉化组汉化补丁v2.0</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/179592.html" class="bt" target="_blank">《杀手3》 3DM汉化组汉化补丁v1.0</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/176625.html" class="bt" target="_blank">《空中王国》 3DM汉化组汉化补丁v2.0</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/174581.html" class="bt" target="_blank">《Haydee 2》 3DM汉化组汉化补丁v2.0</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/173449.html" class="bt" target="_blank">《如龙7：光与暗的去向》 3DM汉化组汉化补丁v1.0</a>
+            </div>
+        </div>
+        <div class="Item"  >
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195034.html" class="bt" target="_blank">《花之灵》 v1.04升级档+未加密补丁[CODEX]</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195028.html" class="bt" target="_blank">《Wallpaper Engine》龙女仆可爱过场合集动态壁纸</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195027.html" class="bt" target="_blank">《Wallpaper Engine》异兽魔都像素风动态壁纸</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195026.html" class="bt" target="_blank">《Wallpaper Engine》辐射4动力甲士兵动态壁纸</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195024.html" class="bt" target="_blank">《Wallpaper Engine》Rust码头场景动态壁纸</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195021.html" class="bt" target="_blank">《Wallpaper Engine》Rust雪山场景动态壁纸</a>
+            </div>
+            <div class="list">
+                <i></i>
+                <a href="https://dl.3dmgame.com/patch/195020.html" class="bt" target="_blank">《Wallpaper Engine》传说之下风格记时动态壁纸</a>
+            </div>
+        </div>
+    <a href="https://dl.3dmgame.com/patch/89066.html" target="_blank" class="downl">游戏玩家必备运行库</a>
+</div>
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico11"></i>正版商城</span>
+        <a href="https://3dmgame.taobao.com/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M4R_c">
+    <div class="lis_a">
+        <a href="https://item.taobao.com/item.htm?id=578176312901" target="_blank" rel="nofollow" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20190515/1557904773_447832.jpg" alt="全面战争：三国" /></a>
+        <div class="bq">正版</div>
+        <div class="txt">
+            <a href="https://item.taobao.com/item.htm?id=578176312901" target="_blank" rel="nofollow" class="bt_a">全面战争：三国</a>
+            <a href="https://item.taobao.com/item.htm?id=578176312901" target="_blank" rel="nofollow" class="btn2">购买：218</a>
+            <p class="list_a">三国 · 历史 · 全战</p>
+        </div>
+    </div>
+    <div class="lis_b">
+        <a href="https://item.taobao.com/item.htm?id=577495327345" target="_blank" rel="nofollow" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20190312/1552373302_876336.jpg" alt="只狼" /></a>
+        <div class="txt">
+            <a href="https://item.taobao.com/item.htm?id=577495327345" target="_blank" rel="nofollow" class="bt_a">只狼</a>
+            <a href="https://item.taobao.com/item.htm?id=577495327345" target="_blank" rel="nofollow" class="btn2">购买：188</a>
+            <p class="list_a">剧情 · 硬核</p>
+        </div>
+    </div>
+    <div class="lis_b">
+        <a href="https://www.3dmgame.hk/game/530.html" target="_blank" rel="nofollow" class="img"><img class="lazy" data-original="https://img.3dmgame.com/uploads/images/thumbnews/20200512/1589266952_253414.jpg" alt="生化3重制版" /></a>
+        <div class="txt">
+            <a href="https://www.3dmgame.hk/game/530.html" target="_blank" rel="nofollow" class="bt_a">生化3重制版</a>
+            <a href="https://www.3dmgame.hk/game/530.html" target="_blank" rel="nofollow" class="btn2">购买：299</a>
+            <p class="list_a">剧情 · 射击 · 恐怖</p>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+        <div class="Min_5">
+            <div class="Index_tit">
+    <div class="tit_L">
+        <i class="sj"></i>
+        <span>手机 - 游戏</span>
+    </div>
+    <div class="tit_R">
+            <a href="https://shouyou.3dmgame.com/android/" target="_blank" ><i></i>安卓</a>
+            <a href="https://shouyou.3dmgame.com/ios/" target="_blank" ><i></i>苹果</a>
+            <a href="https://shouyou.3dmgame.com/tv/" target="_blank" ><i></i>TV版</a>
+            <a href="https://shouyou.3dmgame.com/pc/" target="_blank" ><i></i>电脑版</a>
+            <a href="https://shouyou.3dmgame.com/news/" target="_blank" ><i></i>新闻</a>
+            <a href="https://shouyou.3dmgame.com/original/" target="_blank" ><i></i>原创</a>
+            <a href="https://shouyou.3dmgame.com/hanhua/" target="_blank" ><i></i>汉化</a>
+        </div>
+    <div class="line"></div>
+</div>
+            <div class="Min5_L">
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico11"></i>日常安利</span>
+        <a href="https://shouyou.3dmgame.com/original_26_1/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="ML5_a">
+        <a href="https://shouyou.3dmgame.com/original/28384.html" target="_blank" class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/img/2021/0630/1625025064571661.jpg" alt="日常安利《古剑奇谭：木语人》：依然是同一把“剑”" /></a>
+    <a href="https://shouyou.3dmgame.com/original/28384.html" target="_blank" class="bt">日常安利《古剑奇谭：木语人》：依然是同一把“剑”</a>
+    </div>
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico1"></i>手游资讯</span>
+        <a href="https://shouyou.3dmgame.com/news/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="news_item">
+        <div class="lis_a">
+        <a href="https://shouyou.3dmgame.com/news/58037.html" class="bt" target="_blank"> 众灵随行，轻松躺赢！九宠助战仙幻手游《幻世九歌》现已激爽公测！</a>
+        <a href="https://shouyou.3dmgame.com/news/58037.html" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/thumb/2021/0919/1632017127598.jpg" alt=" 众灵随行，轻松躺赢！九宠助战仙幻手游《幻世九歌》现已激爽公测！"></a>
+        <p class="miaoshu">
+	金秋月圆之际，九宠助战仙幻手游《幻世九歌》现已公测，幻世大陆的冒险之旅也就此启程！人气主播呆妹儿小霸王也将化身绝美九尾狐，带领九美战灵团陪你共闯幻世，疯狂小杨哥与九美战灵团的相遇，又会碰撞出怎样的绝望周末？更有幻世官方认证首席团宠来袭，人气主播一条小团团也将化身游戏中的幻宠，带你畅游幻世大陆！</p>
+    </div> 
+        <div class="lis_a">
+        <a href="https://shouyou.3dmgame.com/news/58036.html" class="bt" target="_blank">跨越时空，《时光公主》X 西安博物院联动开启！</a>
+        <a href="https://shouyou.3dmgame.com/news/58036.html" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/thumb/2021/0918/1631960887369.png" alt="跨越时空，《时光公主》X 西安博物院联动开启！"></a>
+        <p class="miaoshu">
+	9月16日，《时光公主》与西安博物院联动正式开启!本次联动将在游戏内完美还原西安博物院镇馆之宝——金背瑞兽葡萄镜，并诚意满满推出多套惊喜全新西安博物院专属联动服饰，将文物元素运用到服饰的设计中，这样气质与美丽共存的设定，哪个仙女可以抗拒!
+
+
+	
+
+
+	重磅惊喜，匠心还原镇馆之宝</p>
+    </div> 
+        <ul class="lis_b">
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58035.html" class="bt" target="_blank">《绝对演绎》试镜测试定档！成名之夜，因你闪耀！</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58034.html" class="bt" target="_blank">沈梦溪化身“美食博主”，荣耀中国节圆满收官</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58033.html" class="bt" target="_blank">《光·遇》福利中心正式上线，速来网易大神拿蜡烛爱心！</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58032.html" class="bt" target="_blank">1穿6壮举！《街头篮球》总决赛首日超凡智慧阵营胜出</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58030.html" class="bt" target="_blank">德云社《三国志·战略版》专场9月20日开幕，郭德纲领德云男团再讲三战故事</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58029.html" class="bt" target="_blank">《剑侠世界3》iOS测试今日开启  热血家族宣传片曝光</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58028.html" class="bt" target="_blank">科学赛训，健康电竞！OPL x李宁电竞《OPL练就营》正式开启</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/news/58027.html" class="bt" target="_blank">《恶魔秘境》英雄故事灰烬之子-史尔特尔</a>
+            <span>09-18</span>
+        </li>
+        </ul>
+</div>
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico4"></i>手游攻略</span>
+        <a href="https://shouyou.3dmgame.com/gl/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="news_item">
+    <div class="lia_c">
+        <a href="https://shouyou.3dmgame.com/gl/294479.html" target="_blank" class="lis">
+        <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/thumb/2021/0627/1624798128591.png" alt="《哈利波特：魔法觉醒》禁林攻略"></div>
+        <div class="bt">《哈利波特：魔法觉醒》禁林攻略</div>
+    </a>
+        <a href="https://shouyou.3dmgame.com/gl/294475.html" target="_blank" class="lis">
+        <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/thumb/2021/0627/1624768896404.png" alt="《哈利波特：魔法觉醒》神奇生物课攻略"></div>
+        <div class="bt">《哈利波特：魔法觉醒》神奇生物课攻略</div>
+    </a>
+        <a href="https://shouyou.3dmgame.com/gl/294094.html" target="_blank" class="lis">
+        <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/thumb/2021/0625/1624585883777.jpg" alt="《哈利波特：魔法觉醒》黑魔法防御课抓小精灵攻略"></div>
+        <div class="bt">《哈利波特：魔法觉醒》黑魔法防御课抓小精灵攻略</div>
+    </a>
+        <a href="https://shouyou.3dmgame.com/gl/268146.html" target="_blank" class="lis">
+        <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/thumb/2021/0408/1617849570201.jpg" alt="《战神遗迹》战力提升-翼灵篇"></div>
+        <div class="bt">《战神遗迹》战力提升-翼灵篇</div>
+    </a>
+        </div>                
+    <ul class="lis_b">
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323926.html" class="bt" target="_blank">《金铲铲之战》圣锤之毅技能属性装备介绍</a>
+            <span>09-18</span>
+        </li>  
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323925.html" class="bt" target="_blank">《拼多多》百亿补贴iphone13靠谱吗</a>
+            <span>09-18</span>
+        </li>  
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323917.html" class="bt" target="_blank">iphone13换购流程</a>
+            <span>09-18</span>
+        </li>  
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323912.html" class="bt" target="_blank">iphone13分期购买方法</a>
+            <span>09-18</span>
+        </li>  
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323911.html" class="bt" target="_blank">《深空之眼》0氪平民阵容推荐</a>
+            <span>09-18</span>
+        </li>  
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323908.html" class="bt" target="_blank">《金铲铲之战》命运之手阵容搭配推荐</a>
+            <span>09-18</span>
+        </li>  
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323906.html" class="bt" target="_blank">贴吧傻宝什么梗</a>
+            <span>09-18</span>
+        </li>  
+            <li>
+            <i></i>
+            <a href="https://shouyou.3dmgame.com/gl/323904.html" class="bt" target="_blank">《坎公骑冠剑》噩梦9拉赫帝国通关攻略</a>
+            <span>09-18</span>
+        </li>  
+        </ul>
+</div>
+            </div>
+            <div class="Min5_M">
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico14"></i>精彩推荐</span>
+        <a href="https://shouyou.3dmgame.com/news/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M5_lis">
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/news/57818.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/thumb/2021/0908/1631071620829153.jpg" alt="《真・三国无双 霸》全新版本登场，强力新武将练师免费得，海量福利抢先看"></a>
+        <a href="https://shouyou.3dmgame.com/news/57818.html" class="bt" target="_blank">《真・三国无双 霸》全新版本登场，强力新武将练师免费得，海量福利抢先看</a>
+        <div class="info">
+            <div class="sy">
+                <i></i>
+                <span>厂商新闻</span>
+            </div>
+            <div class="time">
+                <i></i>
+                <span>09-08</span>
+            </div>
+        </div>
+    </div>  
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/news/57803.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/thumb/2021/0907/1631000383773.jpg" alt="预约必得随机史诗卡！网易大神《漫威对决》送福利！"></a>
+        <a href="https://shouyou.3dmgame.com/news/57803.html" class="bt" target="_blank">预约必得随机史诗卡！网易大神《漫威对决》送福利！</a>
+        <div class="info">
+            <div class="sy">
+                <i></i>
+                <span>厂商新闻</span>
+            </div>
+            <div class="time">
+                <i></i>
+                <span>09-07</span>
+            </div>
+        </div>
+    </div>  
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/news/57802.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/thumb/2021/0907/1630999886207.jpg" alt="超燃PV揭晓 《猎魂觉醒》X《真·三国无双8》联动最新情报"></a>
+        <a href="https://shouyou.3dmgame.com/news/57802.html" class="bt" target="_blank">超燃PV揭晓 《猎魂觉醒》X《真·三国无双8》联动最新情报</a>
+        <div class="info">
+            <div class="sy">
+                <i></i>
+                <span>厂商新闻</span>
+            </div>
+            <div class="time">
+                <i></i>
+                <span>09-07</span>
+            </div>
+        </div>
+    </div>  
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/news/57733.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/thumb/2021/0902/1630560813179477.png" alt="开启决斗新世代！《游戏王：决斗链接》GX世界今日上线！"></a>
+        <a href="https://shouyou.3dmgame.com/news/57733.html" class="bt" target="_blank">开启决斗新世代！《游戏王：决斗链接》GX世界今日上线！</a>
+        <div class="info">
+            <div class="sy">
+                <i></i>
+                <span>厂商新闻</span>
+            </div>
+            <div class="time">
+                <i></i>
+                <span>09-02</span>
+            </div>
+        </div>
+    </div>  
+    </div>
+            </div>
+            <div class="Min5_R">
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico15"></i>手游礼包</span>
+        <a href="https://shouyou.3dmgame.com/ka/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M5R_lis">
+    <div class="lis">
+		<div class="jh_dara">
+			<a href="https://shouyou.3dmgame.com/ka/2566.html" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0812/1628760809407339.png" alt="《新 诛仙手游》3DM高级礼包" /></a>
+			<a href="https://shouyou.3dmgame.com/ka/2566.html" class="bt" target="_blank">《新 诛仙手游》3DM高级礼包</a>
+			<div class="info">
+				<p>运营：北京完美世界</p>
+				<p>平台：<i class="ios"></i><i class="az"></i></p>
+			</div>
+			<a href="https://shouyou.3dmgame.com/ka/2566.html" class="lq" target="_blank">领取</a>
+		</div>
+        <i class="line"></i>
+    </div>
+    <div class="lis">
+		<div class="jh_dara">
+			<a href="https://shouyou.3dmgame.com/ka/2565.html" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2019/1202/1575268481380049.png" alt="《真·三国无双 霸》3DM礼包" /></a>
+			<a href="https://shouyou.3dmgame.com/ka/2565.html" class="bt" target="_blank">《真·三国无双 霸》3DM礼包</a>
+			<div class="info">
+				<p>运营：腾讯移动游戏</p>
+				<p>平台：<i class="ios"></i><i class="az"></i></p>
+			</div>
+			<a href="https://shouyou.3dmgame.com/ka/2565.html" class="lq" target="_blank">领取</a>
+		</div>
+        <i class="line"></i>
+    </div>
+    <div class="lis">
+		<div class="jh_dara">
+			<a href="https://shouyou.3dmgame.com/ka/2563.html" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0226/1614328852327828.png" alt="《小浣熊百将传》媒体豪华礼包" /></a>
+			<a href="https://shouyou.3dmgame.com/ka/2563.html" class="bt" target="_blank">《小浣熊百将传》媒体豪华礼包</a>
+			<div class="info">
+				<p>运营：北京畅游时代</p>
+				<p>平台：<i class="ios"></i><i class="az"></i></p>
+			</div>
+			<a href="https://shouyou.3dmgame.com/ka/2563.html" class="lq" target="_blank">领取</a>
+		</div>
+        <i class="line"></i>
+    </div>
+    <div class="lis">
+		<div class="jh_dara">
+			<a href="https://shouyou.3dmgame.com/ka/2561.html" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0716/1626407395471127.png" alt="《剑侠世界3》首测激活码" /></a>
+			<a href="https://shouyou.3dmgame.com/ka/2561.html" class="bt" target="_blank">《剑侠世界3》首测激活码</a>
+			<div class="info">
+				<p>运营：西山居游戏</p>
+				<p>平台：<i class="ios"></i><i class="az"></i></p>
+			</div>
+			<a href="https://shouyou.3dmgame.com/ka/2561.html" class="lq" target="_blank">领取</a>
+		</div>
+        <i class="line"></i>
+    </div>
+</div>
+
+            </div>
+            <div class="Min5_B">
+                <div class="M5B_lis">
+    <div class="tab_top">
+        <p class="on">安卓手游</p>
+        <p>苹果手游</p>
+    </div>
+    <div class="tab_item">
+            <div class="item"  style="display: block"  >
+                    <a href="https://shouyou.3dmgame.com/android/49558.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2020/1109/1604907800923557.png" alt="明日之后"></div>
+                <p class="name">明日之后</p>
+                <span class="lx">生存冒险</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/113589.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0901/1630461696895830.png" alt="原神"></div>
+                <p class="name">原神</p>
+                <span class="lx">角色扮演</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/46021.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2018/0625/1529893065435455.png" alt="绝地求生：刺激战场"></div>
+                <p class="name">绝地求生：刺激战场</p>
+                <span class="lx">生存冒险</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/111399.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0412/1618217321425641.png" alt="无尽的拉格朗日"></div>
+                <p class="name">无尽的拉格朗日</p>
+                <span class="lx">角色扮演</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/85475.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2018/0822/1534923898679331.png" alt="233小游戏"></div>
+                <p class="name">233小游戏</p>
+                <span class="lx">辅助工具</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/216004.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0226/1614328852327828.png" alt="小浣熊百将传"></div>
+                <p class="name">小浣熊百将传</p>
+                <span class="lx">卡牌策略</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/1.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2017/0327/1490621219368371.png" alt="王者荣耀"></div>
+                <p class="name">王者荣耀</p>
+                <span class="lx">动作竞技</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/2.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2019/0704/1562206903295933.png" alt="我的世界"></div>
+                <p class="name">我的世界</p>
+                <span class="lx">动作竞技</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/5995.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2018/0814/1534227477252002.jpg" alt="3DM手机客户端"></div>
+                <p class="name">3DM手机客户端</p>
+                <span class="lx">小说漫画</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/android/146356.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0623/1624432436662912.png" alt="最终幻想：勇气启示录 幻影战争"></div>
+                <p class="name">最终幻想：勇气启示录 幻影战争</p>
+                <span class="lx">角色扮演</span>
+            </a> 
+                </div>
+            <div class="item"  >
+                    <a href="https://shouyou.3dmgame.com/ios/244623.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0818/1629251154663332.png" alt="无尽的拉格朗日"></div>
+                <p class="name">无尽的拉格朗日</p>
+                <span class="lx">角色扮演</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/237666.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0705/1625463964285185.png" alt="小浣熊百将传 先享版"></div>
+                <p class="name">小浣熊百将传 先享版</p>
+                <span class="lx">卡牌策略</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/14856.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2018/0814/1534228110767798.jpg" alt="3DM手机客户端"></div>
+                <p class="name">3DM手机客户端</p>
+                <span class="lx">小说漫画</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/1097.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2018/1213/1544694216867133.png" alt="泰拉瑞亚"></div>
+                <p class="name">泰拉瑞亚</p>
+                <span class="lx">生存冒险</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/49311.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0128/1611801602183199.png" alt="量子特攻：逃离梦见岛"></div>
+                <p class="name">量子特攻：逃离梦见岛</p>
+                <span class="lx">飞行射击</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/492.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2017/0407/1491559201646594.jpg" alt="抖音"></div>
+                <p class="name">抖音</p>
+                <span class="lx">视频播放</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/68144.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2018/0905/1536116191584936.png" alt="文明大爆炸"></div>
+                <p class="name">文明大爆炸</p>
+                <span class="lx">休闲益智</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/48129.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2019/1119/1574136575576956.png" alt="迷室：往逝"></div>
+                <p class="name">迷室：往逝</p>
+                <span class="lx">找物解谜</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/51647.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2017/1229/1514519893338478.png" alt="画江湖盟主"></div>
+                <p class="name">画江湖盟主</p>
+                <span class="lx">角色扮演</span>
+            </a> 
+                    <a href="https://shouyou.3dmgame.com/ios/38173.html" class="lis" target="_blank">
+                <div class="img"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2019/0201/1548990535320627.png" alt="一零计划"></div>
+                <p class="name">一零计划</p>
+                <span class="lx">卡牌策略</span>
+            </a> 
+                </div>
+        </div>
+</div>
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico16"></i>手游专区</span>
+        <a href="https://shouyou.3dmgame.com/zt/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="syzq_itme">
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/zt/134678/" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0816/1629112611148632.jpg" alt="金铲铲之战" /></a>
+        <a href="https://shouyou.3dmgame.com/zt/134678/" class="bt" target="_blank">金铲铲之战</a>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/zt/128743/" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0621/1624255232951032.jpg" alt="荣耀新三国" /></a>
+        <a href="https://shouyou.3dmgame.com/zt/128743/" class="bt" target="_blank">荣耀新三国</a>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/zt/78974/" class="img" target="_blank"><img class="lazy" data-original="https://syimg.3dmgame.com/uploadimg/ico/2021/0818/1629281951766310.jpg" alt="无尽的拉格朗日" /></a>
+        <a href="https://shouyou.3dmgame.com/zt/78974/" class="bt" target="_blank">无尽的拉格朗日</a>
+    </div>
+    </div>
+            </div>
+        </div>
+        <div class="Minapp">
+            <div class="tist_data">
+    <div class="imglist"><i class="ico9"></i><span>最新APP</span></div>
+    <div class="rightlist"><i></i><a href="https://shouyou.3dmgame.com/android/" target="_blank">更多</a></div>
+</div>
+<div class="item">
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/250737.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0917/1631880315329578.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/250737.html" class="name" target="_blank">糖果粉碎传奇 官方正式版</a>
+        <div class="info">
+            <span>休闲益智</span>
+            <p>70.57MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251033.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631960435102733.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251033.html" class="name" target="_blank">中职篮英雄 九游版</a>
+        <div class="info">
+            <span>体育竞技</span>
+            <p>12.30MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251030.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631960360603329.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251030.html" class="name" target="_blank">恐龙考古挖掘</a>
+        <div class="info">
+            <span>模拟经营</span>
+            <p>44.02MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251029.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631960184956259.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251029.html" class="name" target="_blank">344游戏盒</a>
+        <div class="info">
+            <span>娱乐趣味</span>
+            <p>13.75MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251028.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631959817226814.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251028.html" class="name" target="_blank">命运冠位指定 百度版</a>
+        <div class="info">
+            <span>卡牌策略</span>
+            <p>725.99MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251027.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631960116617174.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251027.html" class="name" target="_blank">奇幻祖玛 九游版</a>
+        <div class="info">
+            <span>角色扮演</span>
+            <p>175.60MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251026.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631959943453660.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251026.html" class="name" target="_blank">日记：人生模拟器</a>
+        <div class="info">
+            <span>模拟经营</span>
+            <p>0KB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251024.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631959711945019.gif" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251024.html" class="name" target="_blank">生化危城 九游版</a>
+        <div class="info">
+            <span>飞行射击</span>
+            <p>365.80MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251023.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631959227409470.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251023.html" class="name" target="_blank">命运冠位指定</a>
+        <div class="info">
+            <span>卡牌策略</span>
+            <p>725.99MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251020.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631959096965544.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251020.html" class="name" target="_blank">纳讯手游盒子</a>
+        <div class="info">
+            <span>娱乐趣味</span>
+            <p>21.28MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/android/251019.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631959061270924.png" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/android/251019.html" class="name" target="_blank">厨房战斗 官方正版</a>
+        <div class="info">
+            <span>休闲益智</span>
+            <p>76.38MB</p>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="https://shouyou.3dmgame.com/ios/251015.html" class="img" target="_blank"><img src="https://syimg.3dmgame.com/uploadimg/ico/2021/0918/1631958776927023.jpg" alt=""></a>
+        <a href="https://shouyou.3dmgame.com/ios/251015.html" class="name" target="_blank">魔法琴键3</a>
+        <div class="info">
+            <span>音乐舞蹈</span>
+            <p>324.60MB</p>
+        </div>
+    </div>
+    </div>
+
+        </div>
+        <div  class="tonglona_4">
+<script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5866588',
+            container: s,
+            size: '1160,90',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+    <i style="width:26px;height:15px;position:absolute;left:0;bottom:0;background:url(https://www.3dmgame.com/page/images/icon_ad.png);"></i>
+</div>
+        <div class="Min_6">
+            <div class="Index_tit">
+    <div class="tit_L">
+        <i class="wl"></i>
+        <span>网络 - 游戏</span>
+    </div>
+    <div class="tit_R">
+            <a href="https://ol.3dmgame.com/news/" target="_blank"><i></i>新闻</a>
+            <a href="https://ol.3dmgame.com/gl/" target="_blank"><i></i>攻略</a>
+            <a href="https://ol.3dmgame.com/hao/" target="_blank"><i></i>礼包</a>
+            <a href="https://ol.3dmgame.com/test/" target="_blank"><i></i>开服</a>
+        </div>
+    <div class="line"></div>
+</div>
+            <div class="Min6_L">
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico0"></i>新游测试</span>
+        <a href="https://ol.3dmgame.com/test/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M6item_a">
+    <div class="lis">
+        <a href="https://ol.3dmgame.com/jw3yq/" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbbig/20210730/1627627947_175531.jpg" alt="剑网3怀旧服"></a>
+        <a href="https://ol.3dmgame.com/jw3yq/" class="bt" target="_blank">剑网3怀旧服</a>
+        <div class="time">
+            <span>07-30</span>
+            <p>不删档不限号</p>
+        </div>
+        <div class="bq">
+                    <a href="https://ol.3dmgame.com/ku_category_rpg_1/" target="_blank"><i></i>角色扮演</a>
+                    <a href="https://ol.3dmgame.com/ku_collection_wx_1/" target="_blank"><i></i>武侠</a>
+                    <a href="https://ol.3dmgame.com/ku_collection_pvp_1/" target="_blank"><i></i>竞技</a>
+                </div>
+    </div>
+    <div class="lis">
+        <a href="https://ol.3dmgame.com/test/xqnyh/" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbbig/20200924/1600929919_661953.jpg" alt="新倩女幽魂"></a>
+        <a href="https://ol.3dmgame.com/test/xqnyh/" class="bt" target="_blank">新倩女幽魂</a>
+        <div class="time">
+            <span>09-25</span>
+            <p>国服公测</p>
+        </div>
+        <div class="bq">
+                    <a href="https://ol.3dmgame.com/ku_collection_xh_1/" target="_blank"><i></i>玄幻</a>
+                </div>
+    </div>
+    <div class="lis">
+        <a href="https://ol.3dmgame.com/test/zjsj/" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbbig/20210324/1616550588_290190.jpg" alt="战舰世界"></a>
+        <a href="https://ol.3dmgame.com/test/zjsj/" class="bt" target="_blank">战舰世界</a>
+        <div class="time">
+            <span>08-28</span>
+            <p>不删档测试</p>
+        </div>
+        <div class="bq">
+                    <a href="https://ol.3dmgame.com/ku_collection_pvp_1/" target="_blank"><i></i>竞技</a>
+                </div>
+    </div>
+</div>
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico17"></i>竞技视频</span>
+        <a href="https://ol.3dmgame.com/v_2_1/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M6item_b">
+    <div class="lis_a">
+        <a href="https://ol.3dmgame.com/esports/lpl2021c/" class="img" target="_blank">
+            <i class="btn"></i>
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbsmall/20210110/1610249296_755861.jpg" alt="2021英雄联盟LPL职业联赛">
+        </a>
+        <a href="https://ol.3dmgame.com/esports/lpl2021c/" class="bt" target="_blank">
+            <p>2021英雄联盟LPL职业联赛</p>
+        </a>
+    </div>
+
+    <div class="lis_b">
+        <a href="https://ol.3dmgame.com/esports/lck2021c" class="img" target="_blank">
+            <i class="btn"></i>
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbsmall/20210110/1610249303_789602.jpg" alt="2021英雄联盟LCK职业联赛">
+        </a>
+        <a href="https://ol.3dmgame.com/esports/lck2021c" class="bt" target="_blank">
+            <p>2021英雄联盟LCK职业联赛</p>
+        </a>
+    </div>
+
+    <div class="lis_b">
+        <a href="https://ol.3dmgame.com/esports/allsta2020" class="img" target="_blank">
+            <i class="btn"></i>
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbsmall/20210110/1610249315_569994.jpg" alt="英雄联盟全明星赛">
+        </a>
+        <a href="https://ol.3dmgame.com/esports/allsta2020" class="bt" target="_blank">
+            <p>英雄联盟全明星赛</p>
+        </a>
+    </div>
+
+</div>
+            </div>
+            <div class="Min6_M">
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico7"></i>网游资讯</span>
+        <a href="https://ol.3dmgame.com/news/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="news_item">
+    <div class="lis_a">
+        <a href="https://ol.3dmgame.com/news/202108/32371.html" class="bt" target="_blank">“大唐幻夜”精彩回顾 《剑网3》新资料片惊喜多多</a>
+        <a href="https://ol.3dmgame.com/news/202108/32371.html" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnews/2021/0831/1630382397683.jpg" alt="“大唐幻夜”精彩回顾 《剑网3》新资料片惊喜多多" /></a>
+        <p class="miaoshu">
+	江湖一纪，本命之约！《剑网3》十二周年盛典现已圆满落幕！《剑网3》系列制作人郭炜炜在十二周年线上直播发布会上正式宣布2021年年度资料片“北天药宗”即将来袭！超多全新内容陆续登场，还有十二周年江湖大事件“大唐幻夜”绮丽多姿，让人难忘，更有超多隐藏彩蛋不知侠士是否发现了呢？今日就为大家带来江湖大</p>
+    </div>
+    <div class="lis_a">
+        <a href="https://ol.3dmgame.com/news/202108/32360.html" class="bt" target="_blank">《剑网3》十二周年纪念MV《万象长安》首映 发布会盛典今晚开幕 </a>
+        <a href="https://ol.3dmgame.com/news/202108/32360.html" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnews/2021/0828/1630122567683.jpg" alt="《剑网3》十二周年纪念MV《万象长安》首映 发布会盛典今晚开幕 " /></a>
+        <p class="miaoshu">
+	《剑网3》十二周年纪念MV《万象长安》首映 发布会盛典今晚开幕&nbsp;
+
+
+	江湖一纪，本命之约！诸多惊喜同贺《剑网3》十二周年生日快乐！备受侠士瞩目的十二周年纪念MV《万象长安》完整版正片今日首映，本次特邀国民级组合凤凰传奇倾情献礼，与诸位侠士一同回梦大唐气象万千，致敬中华盛世长安</p>
+    </div>
+    <ul class="lis_b">
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/news/202109/32547.html" class="bt" target="_blank">中秋红包雨来袭 迅游加速器狂撒百万好礼</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/news/202109/32545.html" class="bt" target="_blank">10000份测试资格发放等你拿 《剑网3》年度资料片限量封测待君品鉴</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/news/202109/32544.html" class="bt" target="_blank">复活禁止、全员隐身，逆水寒新战场开启最残酷死斗模式</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/news/202109/32543.html" class="bt" target="_blank">网易大神带你飞！面基“嫦娥玉兔”，赢取潮玩手办</a>
+            <span>09-17</span>
+        </li>
+        </ul>
+</div>
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico4"></i>网游攻略</span>
+        <a href="https://ol.3dmgame.com/gl/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M6item_c">
+    <div class="lis_a">
+        <a href="https://ol.3dmgame.com/gl/159252.html" class="img" target="_blank">
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnews/2021/0709/1625810604533.png" alt="中世纪之魂——《泰亚史诗》剑士系一转职业详细介绍" />
+        </a>
+        <a href="https://ol.3dmgame.com/gl/159252.html" class="bt" target="_blank">中世纪之魂——《泰亚史诗》剑士系一转职业详细介绍</a>
+    </div> 
+    <div class="lis_a">
+        <a href="https://ol.3dmgame.com/gl/159250.html" class="img" target="_blank">
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnews/2021/0709/1625809702630.jpg" alt="王城争霸——泰亚大陆的王者之战" />
+        </a>
+        <a href="https://ol.3dmgame.com/gl/159250.html" class="bt" target="_blank">王城争霸——泰亚大陆的王者之战</a>
+    </div> 
+    <ul>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/gl/166442.html" target="_blank">《炉石传说》佣兵战纪全英雄属性技能一览</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/gl/166441.html" target="_blank">佣兵战纪乌瑟尔技能装备一览</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/gl/166440.html" target="_blank">佣兵战纪塔姆辛罗姆技能装备一览</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/gl/166439.html" target="_blank">佣兵战纪先知维纶技能装备一览</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/gl/166438.html" target="_blank">佣兵战纪娜塔莉塞林技能装备一览</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/gl/166437.html" target="_blank">佣兵战纪神谕者摩戈尔技能装备一览</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://ol.3dmgame.com/gl/166436.html" target="_blank">原神大决战海底捞月怎么过</a>
+            <span>09-18</span>
+        </li>
+        </ul>
+</div>
+            </div>
+            <div class="Min6_R">
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico20"></i>热门专区</span>
+        <a href="https://ol.3dmgame.com/ku/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M6item_d">
+         <div class="lis">         
+        <a  href="https://ol.3dmgame.com/dnf/"  target="_blank" class="img">
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbbig/20171218/1513565190_260859.jpg" alt="地下城与勇士" />
+        </a>
+        <div class="menban">
+            <div class="bt">地下城与勇士</div>
+            <div class="jieshao2"><a href='https://ol.3dmgame.com/ku_collection_mx_1/' target='_blank'>冒险</a>,<a href='https://ol.3dmgame.com/ku_collection_pvp_1/' target='_blank'>竞技</a>,<a href='https://ol.3dmgame.com/ku_collection_mh_1/' target='_blank'>魔幻</a></div>
+            <a href="https://ol.3dmgame.com/dnf/" target="_blank" class="zq">进入专区</a>
+        </div>
+    </div>
+         <div class="lis">         
+        <a  href="https://ol.3dmgame.com/ldrs/"  target="_blank" class="img">
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbbig/20210804/1628039625_211192.jpg" alt="领地人生" />
+        </a>
+        <div class="menban">
+            <div class="bt">领地人生</div>
+            <div class="jieshao2"><a href='https://ol.3dmgame.com/ku_collection_sh_1/' target='_blank'>沙盒</a></div>
+            <a href="https://ol.3dmgame.com/ldrs/" target="_blank" class="zq">进入专区</a>
+        </div>
+    </div>
+         <div class="lis">         
+        <a  href="https://ol.3dmgame.com/jw3yq/"  target="_blank" class="img">
+            <img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbbig/20210730/1627627947_175531.jpg" alt="剑网3怀旧服" />
+        </a>
+        <div class="menban">
+            <div class="bt">剑网3怀旧服</div>
+            <div class="jieshao2"><a href='https://ol.3dmgame.com/ku_collection_wx_1/' target='_blank'>武侠</a></div>
+            <a href="https://ol.3dmgame.com/jw3yq/" target="_blank" class="zq">进入专区</a>
+        </div>
+    </div>
+    </div>
+                <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico15"></i>网游活动</span>
+        <a href="https://ol.3dmgame.com/news_5_1/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M6item_e">
+        <div class="lis">
+        <a href="https://ol.3dmgame.com/news/202106/31316.html" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnewshd/20200814/1597376908_804838.jpg" alt="《LOL》2021年6月阿卡丽的黑金商店活动"></a>
+        <a href="https://ol.3dmgame.com/news/202106/31316.html" class="bt" target="_blank">《LOL》2021年6月阿卡丽的黑金商店活动</a>
+        <div class="txt">奖励 : 皮肤</div>
+        <div class="time">时间：06-08—06-21</div>
+        <a href="https://ol.3dmgame.com/news/202106/31316.html" class="btn" target="_blank">参与活动</a>
+    </div>
+        <div class="lis">
+        <a href="https://ol.3dmgame.com/news/202106/31243.html" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnewshd/20210602/1622613584_694693.jpg" alt="《LOL》2021幸运一夏活动"></a>
+        <a href="https://ol.3dmgame.com/news/202106/31243.html" class="bt" target="_blank">《LOL》2021幸运一夏活动</a>
+        <div class="txt">奖励 : 皮肤</div>
+        <div class="time">时间：06-01—06-30</div>
+        <a href="https://ol.3dmgame.com/news/202106/31243.html" class="btn" target="_blank">参与活动</a>
+    </div>
+        <div class="lis">
+        <a href="https://ol.3dmgame.com/news/202106/31235.html" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnewshd/20210601/1622541971_476940.jpg" alt="《CF》端午重磅福利预热专场活动"></a>
+        <a href="https://ol.3dmgame.com/news/202106/31235.html" class="bt" target="_blank">《CF》端午重磅福利预热专场活动</a>
+        <div class="txt">奖励 : 武器、道具</div>
+        <div class="time">时间：05-31—06-14</div>
+        <a href="https://ol.3dmgame.com/news/202106/31235.html" class="btn" target="_blank">参与活动</a>
+    </div>
+        <div class="lis">
+        <a href="https://ol.3dmgame.com/news/202105/31148.html" class="img" target="_blank"><img class="lazy" data-original="https://ol.3dmgame.com/uploads/images/thumbnewshd/20210525/1621911373_802112.jpg" alt="《LOL》2021季中冠军赛RNG夺冠庆典"></a>
+        <a href="https://ol.3dmgame.com/news/202105/31148.html" class="bt" target="_blank">《LOL》2021季中冠军赛RNG夺冠庆典</a>
+        <div class="txt">奖励 : 皮肤、小小英雄</div>
+        <div class="time">时间：05-28—06-06</div>
+        <a href="https://ol.3dmgame.com/news/202105/31148.html" class="btn" target="_blank">参与活动</a>
+    </div>
+    </div>
+            </div>
+        </div>
+        <div class="Min_7">
+            <div class="Index_tit">
+    <div class="tit_L">
+        <i class="wy"></i>
+        <span>网页 - 游戏</span>
+    </div>
+    <div class="tit_R">
+            <a href="https://yeyou.3dmgame.com/news/" target="_blank"><i></i>新闻</a>
+            <a href="https://yeyou.3dmgame.com/gl/" target="_blank"><i></i>攻略</a>
+            <a href="https://yx.3dmgame.com/gift/" target="_blank"><i></i>发号</a>
+            <a href="http://web.3dmgame.com/h5/game?gameid=10278" target="_blank"><i></i>CBA英雄</a>
+        </div>
+    <div class="line"></div>
+</div>
+            <div class="Min7_L">
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico19"></i>经典页游</span>
+        <a href="https://yeyou.3dmgame.com" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M7item_a">
+        <div class="lis">
+        <a href="http://web.3dmgame.com/yy/xajh/ad" class="img" target="_blank"><img src="https://yx.3dmgame.com/uploads/images/thumbsmall/20210824/1629799415_714614.jpg" alt="笑傲江湖"></a>
+        <div class="mb"><a href="http://web.3dmgame.com/yy/xajh/ad" class="playbtn" target="_blank">进入游戏</a></div>
+        <div class="info">
+            <a href="http://web.3dmgame.com/yy/xajh/ad" class="bt" target="_blank">笑傲江湖</a>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="http://web.3dmgame.com/yy/sgqyz/ad" class="img" target="_blank"><img src="https://yx.3dmgame.com/uploads/images/thumbsmall/20200710/1594361858_913083.png" alt="三国群英传"></a>
+        <div class="mb"><a href="http://web.3dmgame.com/yy/sgqyz/ad" class="playbtn" target="_blank">进入游戏</a></div>
+        <div class="info">
+            <a href="http://web.3dmgame.com/yy/sgqyz/ad" class="bt" target="_blank">三国群英传</a>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="http://web.3dmgame.com/yy/yscq/ad" class="img" target="_blank"><img src="https://yx.3dmgame.com/uploads/images/thumbsmall/20210427/1619508288_510834.png" alt="原始传奇"></a>
+        <div class="mb"><a href="http://web.3dmgame.com/yy/yscq/ad" class="playbtn" target="_blank">进入游戏</a></div>
+        <div class="info">
+            <a href="http://web.3dmgame.com/yy/yscq/ad" class="bt" target="_blank">原始传奇</a>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="http://web.3dmgame.com/yy/dldl3d/ad" class="img" target="_blank"><img src="https://yx.3dmgame.com/uploads/images/thumbsmall/20201019/1603097737_498461.png" alt="斗罗大陆3d"></a>
+        <div class="mb"><a href="http://web.3dmgame.com/yy/dldl3d/ad" class="playbtn" target="_blank">进入游戏</a></div>
+        <div class="info">
+            <a href="http://web.3dmgame.com/yy/dldl3d/ad" class="bt" target="_blank">斗罗大陆3d</a>
+        </div>
+    </div>
+    </div>
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico4"></i>页游攻略</span>
+        <a href="https://yeyou.3dmgame.com/gl/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M7item_b">
+    <div class="news_item">
+        <div class="lia_c">
+                    <a href="https://yx.3dmgame.com/gl/19799.html" target="_blank" class="lis">
+                <div class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgl/2021/0817/1629187415489.png" alt="《苍空物语》宝具系统" /></div>
+                <div class="bt">《苍空物语》宝具系统</div>
+            </a>
+                    <a href="https://yx.3dmgame.com/gl/19792.html" target="_blank" class="lis">
+                <div class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgl/2021/0817/1629186430893.png" alt="《苍空物语》仓库系统" /></div>
+                <div class="bt">《苍空物语》仓库系统</div>
+            </a>
+                </div>
+        <ul class="lis_b">
+                        <li>
+                <i></i>
+                <a href="https://yx.3dmgame.com/gl/19809.html" class="bt" target="_blank">《百战沙城》世界BOSS</a>
+                <span>08-26</span>
+            </li>
+                        <li>
+                <i></i>
+                <a href="https://yx.3dmgame.com/gl/19808.html" class="bt" target="_blank">《百战沙城》神威狱</a>
+                <span>08-26</span>
+            </li>
+                        <li>
+                <i></i>
+                <a href="https://yx.3dmgame.com/gl/19807.html" class="bt" target="_blank">《百战沙城》膜拜城主</a>
+                <span>08-26</span>
+            </li>
+                        <li>
+                <i></i>
+                <a href="https://yx.3dmgame.com/gl/19806.html" class="bt" target="_blank">《百战沙城》练功房</a>
+                <span>08-26</span>
+            </li>
+                        <li>
+                <i></i>
+                <a href="https://yx.3dmgame.com/gl/19805.html" class="bt" target="_blank">《百战沙城》金榜题名</a>
+                <span>08-26</span>
+            </li>
+                        <li>
+                <i></i>
+                <a href="https://yx.3dmgame.com/gl/19804.html" class="bt" target="_blank">《百战沙城》行会系统</a>
+                <span>08-26</span>
+            </li>
+                        <li>
+                <i></i>
+                <a href="https://yx.3dmgame.com/gl/19803.html" class="bt" target="_blank">《百战沙城》篝火盛宴</a>
+                <span>08-26</span>
+            </li>
+                    </ul>
+    </div>
+</div>
+            </div>
+            <div class="Min7_M">
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico7"></i>页游资讯</span>
+        <a href="https://yeyou.3dmgame.com/news/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="news_item">
+        <div class="lis_a">
+        <a href="https://yx.3dmgame.com/news/14809.html" class="bt" target="_blank">《原始传奇》5月23日10:00特别专区</a>
+        <a href="https://yx.3dmgame.com/news/14809.html" class="img" target="_blank"><img class="lazy" data-original="https://yx.3dmgame.com/uploads/images/thumbnews/20210522/1621657009_843418.jpg" alt="《原始传奇》5月23日10:00特别专区" /></a>
+        <p class="miaoshu">
+	玩传奇这么多年，大家在游戏中是否也遇到过一些神秘的玩家，当年的传奇有结婚系统，还有爱情戒指这些象征爱情的信物，而隔着千山万水，热血传奇中与你在一起的女玩家那个温柔可爱的小妹妹你还记得吗?
+
+
+	在5月23日10点整3DM自运营专区《原始传奇》将会开放一个特别的女神专区，这个区我们得到总监</p>
+    </div>
+        <div class="lis_a">
+        <a href="https://yx.3dmgame.com/news/14680.html" class="bt" target="_blank">复古传奇回忆杀；能看懂的人基本都结婚生子了！ </a>
+        <a href="https://yx.3dmgame.com/news/14680.html" class="img" target="_blank"><img class="lazy" data-original="https://yx.3dmgame.com/uploads/images/thumbnews/20210413/1618301938_349036.jpg" alt="复古传奇回忆杀；能看懂的人基本都结婚生子了！ " /></a>
+        <p class="miaoshu">
+	传奇对每一位喜欢这个游戏的玩家来说都是一款经典游戏，每个人一个都会有一段难忘回忆和趣事。可以说这款游戏陪伴了大部分玩家的成长足迹。对于每位玩家来说，肯定会有一件或者几件让他记忆犹新的游戏故事，不知道各位还记得当初这款游戏带给你的感觉吗，是否像一首歌谣般滋润你的儿时回忆。
+
+
+	给我一根无</p>
+    </div>
+        <ul class="lis_b">
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15134.html" class="bt" target="_blank">《笑傲江湖》9月22日合服公告</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15133.html" class="bt" target="_blank">《传奇国度》9月20日维护公告</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15132.html" class="bt" target="_blank">《盗魂传》中秋节活动</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15131.html" class="bt" target="_blank">《天问》中秋节活动</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15130.html" class="bt" target="_blank">《百战沙城》金秋庆典活动</a>
+            <span>09-18</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15129.html" class="bt" target="_blank">《斗罗大陆3D》中秋活动-寻找玉兔</a>
+            <span>09-17</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15128.html" class="bt" target="_blank">《武神三国志》9月17日维护公告</a>
+            <span>09-17</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15127.html" class="bt" target="_blank">《苍之录》9月20日合服公告</a>
+            <span>09-17</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15126.html" class="bt" target="_blank">《笑傲江湖》9月17日维护公告</a>
+            <span>09-17</span>
+        </li>
+            <li>
+            <i></i>
+            <a href="https://yx.3dmgame.com/news/15125.html" class="bt" target="_blank">《欧冠英雄》中秋节活动</a>
+            <span>09-17</span>
+        </li>
+        </ul>
+</div>
+            </div>
+            <div class="Min7_R">
+             <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico2"></i>页游开服表</span>
+        <a href="https://yx.3dmgame.com/kf/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M7item_c">
+        <div class="lis on">
+        <div class="box_a">
+            <a href="http://web.3dmgame.com/h5/game?gameid=10335"  target="_blank" class="name">魔界战记</a>
+            <div class="lx">奇迹295服</div>
+            <div class="time">2021-09-19</div>
+            <div class="box_b">
+                <a href="http://web.3dmgame.com/h5/game?gameid=10335"  target="_blank" class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20210611/1623382464_560667.jpg" alt="魔界战记"></a>
+                <a href="http://web.3dmgame.com/h5/game?gameid=10335"  target="_blank" class="btn" rel="nofollow">开始游戏</a>
+            </div>
+        </div>
+    </div>
+        <div class="lis">
+        <div class="box_a">
+            <a href="http://web.3dmgame.com/yy/dldl3d/ad"  target="_blank" class="name">斗罗大陆3D</a>
+            <div class="lx">双线140服</div>
+            <div class="time">2021-09-19</div>
+            <div class="box_b">
+                <a href="http://web.3dmgame.com/yy/dldl3d/ad"  target="_blank" class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20210419/1618824390_203536.jpg" alt="斗罗大陆3D"></a>
+                <a href="http://web.3dmgame.com/yy/dldl3d/ad"  target="_blank" class="btn" rel="nofollow">开始游戏</a>
+            </div>
+        </div>
+    </div>
+        <div class="lis">
+        <div class="box_a">
+            <a href="http://web.3dmgame.com/yy/sslj"  target="_blank" class="name">战神三十六计</a>
+            <div class="lx">双线143服</div>
+            <div class="time">2021-09-19</div>
+            <div class="box_b">
+                <a href="http://web.3dmgame.com/yy/sslj"  target="_blank" class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20200528/1590632297_711702.jpg" alt="战神三十六计"></a>
+                <a href="http://web.3dmgame.com/yy/sslj"  target="_blank" class="btn" rel="nofollow">开始游戏</a>
+            </div>
+        </div>
+    </div>
+        <div class="lis">
+        <div class="box_a">
+            <a href="https://yx.3dmgame.com/app/zqhx/"  target="_blank" class="name">最Q幻想</a>
+            <div class="lx">386服</div>
+            <div class="time">2021-09-19</div>
+            <div class="box_b">
+                <a href="https://yx.3dmgame.com/app/zqhx/"  target="_blank" class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20200824/1598253256_466101.png" alt="最Q幻想"></a>
+                <a href="https://yx.3dmgame.com/app/zqhx/"  target="_blank" class="btn" rel="nofollow">开始游戏</a>
+            </div>
+        </div>
+    </div>
+        <div class="lis">
+        <div class="box_a">
+            <a href="https://yx.3dmgame.com/app/xhdtsgs/"  target="_blank" class="name">校花的贴身高手</a>
+            <div class="lx">天阶岛507服</div>
+            <div class="time">2021-09-19</div>
+            <div class="box_b">
+                <a href="https://yx.3dmgame.com/app/xhdtsgs/"  target="_blank" class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20200812/1597221930_777423.jpg" alt="校花的贴身高手"></a>
+                <a href="https://yx.3dmgame.com/app/xhdtsgs/"  target="_blank" class="btn" rel="nofollow">开始游戏</a>
+            </div>
+        </div>
+    </div>
+        <div class="lis">
+        <div class="box_a">
+            <a href="https://yx.3dmgame.com/app/hlxdqzxy/"  target="_blank" class="name">葫芦兄弟七子降妖</a>
+            <div class="lx">千变万化</div>
+            <div class="time">2021-09-19</div>
+            <div class="box_b">
+                <a href="https://yx.3dmgame.com/app/hlxdqzxy/"  target="_blank" class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20201224/1608802805_637419.jpg" alt="葫芦兄弟七子降妖"></a>
+                <a href="https://yx.3dmgame.com/app/hlxdqzxy/"  target="_blank" class="btn" rel="nofollow">开始游戏</a>
+            </div>
+        </div>
+    </div>
+        <div class="lis">
+        <div class="box_a">
+            <a href="http://web.3dmgame.com/yy/dhz/ad/"  target="_blank" class="name">盗魂传</a>
+            <div class="lx">双线14服</div>
+            <div class="time">2021-09-19</div>
+            <div class="box_b">
+                <a href="http://web.3dmgame.com/yy/dhz/ad/"  target="_blank" class="img"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20210820/1629424772_435719.jpg" alt="盗魂传"></a>
+                <a href="http://web.3dmgame.com/yy/dhz/ad/"  target="_blank" class="btn" rel="nofollow">开始游戏</a>
+            </div>
+        </div>
+    </div>
+    </div>
+            </div>
+            <div class="Min7_B">
+            <div class="QZ_title">
+    <div class="bt">
+        <span><i class="ico18"></i>H5游戏</span>
+        <a href="https://yx.3dmgame.com/h5/" target="_blank" class="mor">更多<i></i></a>
+    </div>
+</div>
+<div class="M7item_d">
+        <div class="lis">
+        <a href="http://web.3dmgame.com/h5/game?gameid=10101" target="_blank" class="img"><img class="lazy" data-original="https://yx.3dmgame.com/uploads/images/thumbsmall/20190917/1568701198_439026.jpg" alt="《文字修真》"></a>
+        <div class="top">
+            <div class="ewm"><img src="https://yx.3dmgame.com/uploads/images/thumbsmall/20200710/1594362287_568755.png" alt="《文字修真》"></div>
+            <a href="http://web.3dmgame.com/h5/game?gameid=10101" target="_blank" class="play">开始游戏</a>
+            <a href="https://yeyou.3dmgame.com/zt/wzxz/" target="_blank" class="gw" rel="nofollow">进入官网</a>
+        </div>
+        <div class="bot">
+            <p>《文字修真》</p>
+            <span>修真踏天途</span>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="http://web.3dmgame.com/h5/game?gameid=10107" target="_blank" class="img"><img class="lazy" data-original="https://yx.3dmgame.com/uploads/images/thumbsmall/20200710/1594362165_184342.jpg" alt="《荣耀冠军》"></a>
+        <div class="top">
+            <div class="ewm"><img src="https://yx.3dmgame.com/uploads/images/thumbsmall/20200710/1594362217_836240.png" alt="《荣耀冠军》"></div>
+            <a href="http://web.3dmgame.com/h5/game?gameid=10107" target="_blank" class="play">开始游戏</a>
+            <a href="https://yeyou.3dmgame.com/zt/qwzl/" target="_blank" class="gw" rel="nofollow">进入官网</a>
+        </div>
+        <div class="bot">
+            <p>《荣耀冠军》</p>
+            <span>FIFPro官方授权策略足球游戏</span>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="http://web.3dmgame.com/h5/game?gameid=10199" target="_blank" class="img"><img class="lazy" data-original="https://yx.3dmgame.com/uploads/images/thumbsmall/20200710/1594362492_556920.jpg" alt="名酱三国"></a>
+        <div class="top">
+            <div class="ewm"><img src="https://yx.3dmgame.com/uploads/images/thumbsmall/20200710/1594362499_598731.png" alt="名酱三国"></div>
+            <a href="http://web.3dmgame.com/h5/game?gameid=10199" target="_blank" class="play">开始游戏</a>
+            <a href="https://yx.3dmgame.com/h5/mjsg/" target="_blank" class="gw" rel="nofollow">进入官网</a>
+        </div>
+        <div class="bot">
+            <p>名酱三国</p>
+            <span>狮盔银铠 威震西凉</span>
+        </div>
+    </div>
+        <div class="lis">
+        <a href="http://web.3dmgame.com/h5/game?gameid=10343" target="_blank" class="img"><img class="lazy" data-original="https://yx.3dmgame.com/uploads/images/thumbsmall/20210824/1629799106_846554.jpg" alt="女神联盟：契约"></a>
+        <div class="top">
+            <div class="ewm"><img src="https://yx.3dmgame.com/uploads/images/thumbgameh5/20210621/1624268389_997190.png" alt="女神联盟：契约"></div>
+            <a href="http://web.3dmgame.com/h5/game?gameid=10343" target="_blank" class="play">开始游戏</a>
+            <a href="https://yx.3dmgame.com/h5/nslm/" target="_blank" class="gw" rel="nofollow">进入官网</a>
+        </div>
+        <div class="bot">
+            <p>女神联盟：契约</p>
+            <span>女神之战重启</span>
+        </div>
+    </div>
+    </div>  
+            </div>
+        </div>
+    </div>
+    <div class="Linkwrap" style="display: block;">
+    <div class="Yqlink">
+        <div class="link">
+            <p><i></i>友情链接</p>
+            <a href="http://www.3dmgame.com/" target="_blank"  >单机游戏</a>
+            <a href="http://shouyou.3dmgame.com/" target="_blank"  >手机游戏</a>
+            <a href="http://www.pc6.com/" target="_blank"  >pc6下载站</a>
+            <a href="https://www.cr173.com/" target="_blank"  >西西软件园</a>
+            <a href="http://www.paopaoche.net/" target="_blank"  >单机游戏下载</a>
+            <a href="http://www.91danji.com/" target="_blank"  >91单机网</a>
+            <a href="http://www.962.net/" target="_blank"  >单机游戏下载</a>
+            <a href="http://www.manhuatai.com/" target="_blank"  >罗大陆漫画</a>
+            <a href="https://www.wjszx.com.cn/" target="_blank"  >手机APP下载</a>
+            <a href="http://www.cncrk.com/" target="_blank"  >起点软件下载</a>
+            <a href="https://www.gmz88.com/" target="_blank"  >游戏吧</a>
+            <a href="http://www.xiazaiba.com/" target="_blank"  >绿色下载吧</a>
+            <a href="http://v.61.com/" target="_blank"  >动画片大全</a>
+            <a href="https://www.fxxz.com/" target="_blank"  >游戏下载基地</a>
+            <a href="http://www.doyo.cn/" target="_blank"  >单机游戏下载</a>
+            <a href="http://www.yzmg.com/" target="_blank"  >亿智蘑菇</a>
+            <a href="https://ol.3dmgame.com/" target="_blank"  >网络游戏</a>
+            <a href="http://www.yxdown.com/" target="_blank"  >游讯单机游戏</a>
+            <a href="https://www.52pojie.cn/" target="_blank"  >吾爱破解</a>
+            <a href="https://www.ruan8.com/" target="_blank"  >软吧手机软件</a>
+            <a href="https://www.douxie.com/" target="_blank"  >斗蟹游戏</a>
+            <a href="http://www.52z.com/" target="_blank"  >飞翔下载</a>
+            <a href="http://www.downza.cn/" target="_blank"  >下载之家</a>
+            <a href="http://www.pc841.com/" target="_blank"  >百事电脑网</a>
+            <a href="http://www.glzy8.com/" target="_blank"  >管理资料</a>
+            <a href="http://news.4399.com/" target="_blank"  >4399资讯</a>
+            <a href="http://www.18183.com/" target="_blank"  >18183手机游戏</a>
+            <a href="http://www.37.com/" target="_blank"  >37游戏</a>
+            <a href="http://www.gamedog.cn/" target="_blank"  >手机游戏</a>
+            <a href="http://www.4399.cn/" target="_blank"  >4399手机游戏</a>
+            <a href="http://www.07073.com/" target="_blank"  >网页游戏</a>
+            <a href="https://www.youzu.com/" target="_blank"  >网页游戏</a>
+            <a href="http://www.gamersky.com/" target="_blank"  >游民星空</a>
+            <a href="http://cc.163.com/" target="_blank"  >cc直播</a>
+            <a href="http://www.ddooo.com/" target="_blank"  >多多软件站</a>
+            <a href="https://www.douyu.com/  " target="_blank"  >游戏直播</a>
+            <a href="https://www.qqtn.com/" target="_blank"  >QQ下载</a>
+            <a href="http://www.pcsoft.com.cn/" target="_blank"  >PC下载网</a>
+            <a href="http://www.onlinedown.net/" target="_blank"  >软件下载</a>
+            <a href="http://www.7k7k.com/" target="_blank"  >7k7k游戏</a>
+            <a href="https://www.uc23.net" target="_blank"  >深度系统</a>
+            <a href="http://www.duote.com" target="_blank"  >游戏软件下载 </a>
+            <a href="http://www.shicimingju.com/gamehbd/" target="_blank"  >安卓游戏</a>
+            <a href="http://www.9game.cn" target="_blank"  >手机游戏</a>
+            <a href="http://www.liulanqi.net  " target="_blank"  >浏览器下载</a>
+            <a href="https://www.wywyx.com/" target="_blank"  >玩一玩游戏网</a>
+            <a href="https://www.pchome.net/" target="_blank"  >PChome</a>
+            <a href="http://www.xianfengniao.com" target="_blank"  >先锋鸟</a>
+            <a href="https://www.myapks.com" target="_blank"  >应用之家</a>
+            <a href="https://www.aiyouxiba.com" target="_blank"  >爱游戏吧</a>
+            <a href="https://www.wepew.net" target="_blank"  >win10</a>
+            <a href="https://jiasu.nn.com/" target="_blank"  >加速器</a>
+        </div>
+    </div>
+    <div class="line"></div>
+</div>
+        <div class="fotter">
+        <div class="fotter-top">
+            <div class="center">
+                <div class="wrap">
+                    <p>综合内容</p>
+                    <ul>
+                        <li><a href="https://3c.3dmgame.com/" target="_blank">硬件设备</a></li>
+                        <li><a href="https://bbs.3dmgame.com/" target="_blank">游戏论坛</a></li>
+                        <li><a href="https://www.3dmgame.com/bagua/" target="_blank">娱乐频道</a></li>
+                        <li><a href="https://www.3dmgame.com/original.html" target="_blank">原创专栏</a></li>
+                        <li><a href="https://shop.3dmgame.com" target="_blank">游戏商城</a></li>
+                        <li><a href="https://www.3dmgame.com/hanhua/" target="_blank">游戏汉化</a></li>
+                    </ul>
+                </div>
+                <div class="wrap">
+                    <p>单机游戏</p>
+                    <ul>
+                        <li><a href="https://dl.3dmgame.com/" target="_blank">游戏下载</a></li>
+                        <li><a href="https://dl.3dmgame.com/patch/" target="_blank">补丁MOD</a></li>
+                        <li><a href="https://www.3dmgame.com/gl/" target="_blank">原创攻略</a></li>
+                        <li><a href="https://www.3dmgame.com/games/ns_all_1/" target="_blank">Switch</a></li>
+                        <li><a href="https://www.3dmgame.com/games/ps4_all_1/" target="_blank">PS4</a></li>
+                        <li><a href="https://www.3dmgame.com/release/" target="_blank">发售表</a></li>
+                    </ul>
+                </div>
+                <div class="wrap">
+                    <p>手机游戏</p>
+                    <ul>
+                        <li><a href="https://shouyou.3dmgame.com/android/" target="_blank">安卓游戏</a></li>
+                        <li><a href="https://shouyou.3dmgame.com/ios/" target="_blank">苹果游戏</a></li>
+                        <li><a href="https://shouyou.3dmgame.com/gl/" target="_blank">手游攻略</a></li>
+                        <li><a href="https://shouyou.3dmgame.com/ka/" target="_blank">手游礼包</a></li>
+                        <li><a href="https://shouyou.3dmgame.com/zt/" target="_blank">专题合集</a></li>
+                        <li><a href="https://shouyou.3dmgame.com/phb/" target="_blank">手游排行</a></li>
+                    </ul>
+                </div>
+                <div class="wrap">
+                    <p>网络游戏</p>
+                    <ul>
+                        <li><a href="https://ol.3dmgame.com/news/" target="_blank">网游资讯</a></li>
+                        <li><a href="https://ol.3dmgame.com/esports/" target="_blank">竞技赛事</a></li>
+                        <li><a href="https://ol.3dmgame.com/news_5_1/" target="_blank">网游活动</a></li>
+                        <li><a href="https://ol.3dmgame.com/ku/" target="_blank">网游大全</a></li>
+                        <li><a href="https://ol.3dmgame.com/test/" target="_blank">新游试玩</a></li>
+                        <li><a href="https://ol.3dmgame.com/hao/" target="_blank">激活码</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="fotter-bottom">
+            <div class="fotter-link">
+                <a href="https://www.3dmgame.com/s/about.html" target="_blank">关于3DMGAME</a>|<a href="https://www.3dmgame.com/s/joinus.html" target="_blank">招聘信息</a>|<a href="https://www.3dmgame.com/s/sitemap.html" target="_blank">网站地图</a>|<a href="https://www.3dmgame.com/s/contact.html" target="_blank">联系我们</a>|<a href="https://www.3dmgame.com/s/media.html" target="_blank">媒体信息</a>|<a href="https://www.3dmgame.com/s/sqyd.html" target="_blank">家长监护申请引导</a>|<a href="https://www.3dmgame.com/s/jzjh.html" target="_blank">家长监护</a>|<a href="https://www.3dmgame.com/s/tl/index.html" target="_blank">汉化翻译</a>
+                <p> <a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow">京ICP备14006952号-1</a>   京B2-20201630 &nbsp;&nbsp;京网文（2016）1650-207号 <a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011202006753"><img src="" style="float:left;"/><span style="color:#939393;">沪公网安备 31011202006753号</span></a>未成年人举报：legal@3dmgame.com</p>
+                <p>CopyRight©2003-2018 违法和不良信息举报（021-54473036） All Right Reserved</p>
+                <p><a href="https://www.12377.cn/" target="_blank" rel="nofollow" class="jubao"><img src="https://www.3dmgame.com/index/images/jubao.png" /></a></p>
+            </div>
+        </div>
+    </div>
+	<script src="https://www.3dmgame.com/index/js/lazyload.js"></script>
+    <script src="https://www.3dmgame.com/index/js/pic_tab.js"></script>
+    <script src="https://www.3dmgame.com/index/js/index.js?v=2108196"></script>
+    <div style="display: none;">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?41e10dae8e5d7e8cc907484abce82fb9";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+    <script src="https://my.3dmgame.com/user/js/user.js?v=08193"></script>
+<script src="https://ssl.captcha.qq.com/TCaptcha.js"></script>
+        <div id="my_login_form" class="login_wrap"  style="display: none;">
+            <div class="form_login">
+                <div class="title">会员登录</div>
+                <div class="input_wrap login_username">
+                    <div class="name_ico">
+                        <i></i>
+                    </div>
+                    <input type="text" title="用户名" name="username" id="loginname" value="" maxlength="" placeholder="请输入手机号 / 论坛账号 " />
+                    <p class="Tipsbox_yes Tips_name"></p>
+                </div>
+                <div class="input_wrap login_password">
+                    <div class="password_ico">
+                        <i></i>
+                    </div>
+                    <input type="password" title="密码" name="passwd" id="loginpassword" value="" required="required" placeholder="请输入密码">
+                    <p class="Tipsbox_yes Tips_pswd"></p>
+                </div>
+                <div class="Tipsbox Tips-name">
+                    <i></i>
+                    <p>请输入手机号或论坛账号</p>
+                </div>
+                <div class="Tipsbox Tips-pswd">
+                    <i></i>
+                    <p>请输入密码</p>
+                </div>
+                <div class="auto_login">
+                    <div class="radiobtn">
+                        <input type="checkbox" id="atloginck" value="1" checked="checked" onchange="setautologin(this)" />
+                        <input type="hidden" name="autologin" id="myautologin" value="1" />
+                        <span class="inpbg"></span>
+                    </div>
+                    <label for="atloginck">自动登录</label>
+                    <a href="https://my.3dmgame.com/findpasswd" class="forget_link" target="_blank">忘记密码</a>
+                    <a href="javascript:void(0);" class="registered_link" onclick="openregister()">新会员注册</a>
+                </div>
+                <a href="javascript:void(0);" class="submit" onclick="login_submit()">登 录</a>
+                <div class="other_login">
+                    <p>社交账号登录</p>
+                </div>
+                <div class="other_login_list">
+                    <div class="weibo">
+                        <i onclick="sina_login()"></i>
+                    </div>
+                    <div class="weixin">
+                        <i onclick="wechat_login()"></i>
+                    </div>
+                    <div class="QQ">
+                        <i onclick="qq_login()"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="form_register">
+                <div class="title">3DM  欢迎新人加入</div>
+                <div class="infowrap">
+                    <div class="input_lis">
+                        <span>区号:</span>
+                        <select id="areacode" name="areacode"></select>
+                    </div>
+                    <div class="input_lis">
+                        <span>账号:</span>
+                        <input value="" required="required" autocomplete="off" requiredtitle="请输入手机号" patterntitle="国内手机号为11个数字国外手机为区号-手机号!" class="mobile" type="text" name="mobile" id="mobile" placeholder="请输入手机号">
+                    </div>
+                    <div class="input_lis">
+                        <span>密码:</span>
+                        <input id="regpasswd" name="regpasswd" value="" required="required" autocomplete="off" title="别忘了密码" class="passwd" type="password" placeholder="请输入密码（6-18位字母、数字、符号）">
+                    </div>
+                    <div class="input_lis">
+                        <span>确认密码:</span>
+                        <input id="checkpasswd" name="checkpasswd" value="" required="required" autocomplete="off" title="别忘了密码" class="checkpasswd" type="password" placeholder="再次输入密码">
+                    </div>
+                    <div class="input_lis yzm_inp">
+                        <span>验证码:</span>
+                        <input id="validate" name="validate" value="" required="required" requiredtitle="输入验证码" type="text" class="yzm-c" maxlength="16" placeholder="输入验证码">
+                            <div class="time " id="TencentCaptcha" data-appid="2072025837" data-cbfn="callback_regcaptcha" >获取验证码</div>
+                    </div>
+                    <div class="tips">
+                        收不到验证码？<span class="feedback" onclick="show_feedback()">去反馈</span>
+                    </div>
+                    <div class="submit_wrap">
+                        <span class="submit" onclick="reg_submit()">注 册</span>
+                    </div>
+                    <div class="rule_wrap">
+                        <input id="rule" name="rule" type="checkbox" checked="checked" value="">
+                        <div class="btn_ico2"></div>
+                        <label for="rule">我已同意</label><a href="https://my.3dmgame.com/agreement" target="_blank">《3DM账号协议》</a>
+                        <div class="tips_login">已有账号？<a id="login2" href="javascript:void(0);" onclick="openlogin()">去登录</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>    <script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5941958',
+            container: s,
+            size: '1000,90',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+    <script src="https://www.3dmgame.com/page/js/advert.js"></script>
+    <script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5866590',
+            container: s,
+            size: '1000,90',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+    <script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5866592',
+            container: s,
+            size: '900,350',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+
+<script>
+    function adveflex() {
+        var asrc='https://bbs.3dmgame.com/thread-6137460-1-1.html';
+        var img='/page/images/adveflex.png';
+        var html = '';
+        html += '<style>';
+        html += '.adveflex{ position: fixed; top: 34px; z-index: 1000; }';
+        html += '.adveflex img{  width:200px;}';
+        html +='.adveflex .close_btn{position: absolute;right: 0;top: 0;width: 66px;height: 18px;cursor: pointer;z-index: 2;background: url(https://www.3dmgame.com/attach/images/closebt.png) no-repeat;}',
+            html += '</style>';
+        html += '<div class="adveflex">';
+        html += '<div class="close_btn"></div>';
+        html += '<a href="'+asrc+'" target="_blank">';
+        html += '<img src="'+img+'" alt="">';
+        html += '</a>';
+        html += '</div>';
+        $('body').append(html);
+        function js_html() {
+            var left = ($(window).width() - 1100) / 2;
+            $(".adveflex").css("left", left + 1200)
+        }
+        js_html()
+        $(window).resize(function () {js_html()});
+    }
+    var timestamp =Date.parse(new Date())/1000;;
+    if(timestamp<1615687200){ adveflex()}
+
+    $(".adveflex .close_btn").click(function (e) {
+        $(".adveflex").remove();
+    });
+</script>
+</body>
+</html>
